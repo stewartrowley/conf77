@@ -1,0 +1,1430 @@
+[
+   {
+      "key": "AoAD1",
+      "cardColor": "yellow",
+      "name": "Endomotor, Minaret Prophet",
+      "houses": ["Dis", "Logos", "Sanctum"],
+      "cards": [
+         "AoA053", "AoA053", "AoA058", "AoA059", "AoA062", "AoA064", "AoA068", "AoA074", "AoA075", "AoA076", "AoA093", "AoA105",
+         "AoA109", "AoA110", "AoA115", "AoA118", "AoA120", "AoA124", "AoA132", "AoA132", "AoA135", "AoA136", "AoA138", "AoA148",
+         "AoA216", "AoA217", "AoA217", "AoA218", "AoA219", "AoA219", "AoA223", "AoA226", "AoA226", "AoA226", "AoA227", "AoA231"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD2",
+      "cardColor": "green",
+      "name": "Oziel Cledormo from the Regulator's Field",
+      "houses": ["Logos", "Sanctum", "Untamed"],
+      "cards": [
+         "AoA109", "AoA112", "AoA113", "AoA114", "AoA122", "AoA122", "AoA130", "AoA131", "AoA134", "AoA135", "AoA135", "AoA139",
+         "AoA211", "AoA217", "AoA214", "AoA216", "AoA223", "AoA223", "AoA225", "AoA235", "AoA244", "AoA246", "AoA260", "AoA266",
+         "AoA186", "AoA323", "AoA323", "AoA327", "AoA327", "AoA333", "AoA333", "AoA334", "AoA336", "AoA337", "AoA343", "AoA355"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD3",
+      "cardColor": "purple",
+      "name": "Rivenlark, the Druid of Tempation",
+      "houses": ["Brobnar", "Logos", "Shadows"],
+      "cards": [
+         "AoA004", "AoA006", "AoA007", "AoA009", "AoA011", "AoA015", "AoA015", "AoA016", "AoA024", "CotA029", "AoA035", "AoA042",
+         "AoA109", "AoA110", "AoA110", "AoA111", "AoA113", "AoA115", "AoA119", "AoA122", "AoA125", "AoA127", "AoA134", "AoA134",
+         "AoA267", "AoA269", "AoA269", "AoA272", "AoA273", "AoA277", "AoA279", "AoA280", "AoA281", "AoA290", "AoA306", "AoA314"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD4",
+      "cardColor": "red",
+      "name": "Overwhelmingly Unstoppable Stigandi",
+      "houses": ["Brobnar", "Mars", "Shadows"],
+      "cards": [
+         "AoA009", "AoA009", "AoA012", "AoA012", "AoA014", "AoA014", "AoA023", "AoA026", "AoA026", "AoA030", "AoA041", "AoA045",
+         "AoA161", "AoA162", "AoA166", "AoA168", "AoA169", "AoA171", "AoA172", "AoA174", "AoA179", "AoA181", "AoA187", "AoA198",
+         "AoA273", "AoA275", "AoA275", "AoA277", "AoA277", "AoA282", "AoA282", "AoA286", "AoA289", "AoA295", "AoA295", "AoA309"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD5",
+      "cardColor": "orange",
+      "name": "Hyram, Haven Bully",
+      "houses": ["Dis", "Mars", "Untamed"],
+      "cards": [
+         "AoA054", "AoA054", "AoA059", "AoA063", "AoA064", "AoA067", "AoA068", "AoA073", "AoA076", "AoA077", "AoA086", "AoA104",
+         "AoA162", "AoA164", "AoA166", "AoA166", "AoA166", "AoA168", "AoA168", "AoA169", "AoA177", "AoA177", "AoA185", "AoA205",
+         "AoA319", "AoA321", "AoA322", "AoA322", "AoA323", "AoA326", "AoA328", "AoA328", "AoA329", "AoA333", "AoA334", "AoA337"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD6",
+      "cardColor": "blue",
+      "name": "The Automatic Critic Servant of Cloudstairs",
+      "houses": ["Dis", "Logos", "Untamed"],
+      "cards": [
+         "AoA055", "AoA056", "AoA056", "AoA057", "AoA058", "AoA060", "AoA066", "AoA067", "AoA068", "AoA068", "AoA073", "AoA104",
+         "AoA112", "AoA115", "AoA117", "AoA118", "AoA119", "AoA123", "AoA127", "AoA129", "AoA135", "AoA136", "AoA137", "AoA155",
+         "AoA321", "AoA326", "AoA330", "AoA332", "AoA333", "AoA336", "AoA339", "AoA344", "AoA350", "AoA350", "AoA350", "AoA366"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD7",
+      "cardColor": "yellow",
+      "name": "Snowelf of the Understudy's Slum",
+      "houses": ["Logos", "Shadows", "Untamed"],
+      "cards": [
+         "AoA108", "AoA109", "AoA110", "AoA113", "AoA115", "AoA116", "AoA118", "AoA120", "AoA122", "AoA132", "AoA133", "AoA135",
+         "AoA267", "AoA268", "AoA269", "AoA269", "AoA275", "AoA278", "AoA282", "AoA282", "AoA282", "AoA282", "AoA293", "AoA307",
+         "AoA319", "AoA321", "AoA323", "AoA323", "AoA324", "AoA325", "AoA326", "AoA330", "AoA332", "AoA332", "AoA347", "AoA362"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD8",
+      "cardColor": "green",
+      "name": "Twitch D. Yesubillow, the Third",
+      "houses": ["Dis", "Sanctum", "Shadows"],
+      "cards": [
+         "AoA054", "AoA054", "AoA058", "AoA064", "AoA065", "AoA074", "AoA078", "AoA084", "AoA084", "AoA085", "AoA085", "AoA094", 
+         "AoA217", "AoA218", "AoA218", "AoA223", "AoA224", "AoA225", "AoA225", "AoA228", "AoA236", "AoA239", "AoA241","AoA260",
+         "AoA269", "AoA270", "AoA271", "AoA275", "AoA282", "AoA286", "AoA288", "AoA289", "AoA290", "AoA291", "AoA293", "AoA298"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD9",
+      "cardColor": "purple",
+      "name": "Blind \"Old Blue\" Franz",
+      "houses": ["Dis", "Shadows", "Untamed"],
+      "cards": [
+         "AoA054", "AoA057", "AoA057", "AoA057", "AoA059", "AoA059", "AoA061", "AoA064", "AoA066", "AoA067", "AoA086", "AoA100",
+         "AoA268", "AoA269", "AoA271", "AoA273", "AoA280", "AoA280", "AoA281", "AoA281", "AoA284", "AoA290", "AoA292", "AoA310",
+         "AoA320", "AoA321", "AoA321", "AoA325", "AoA326", "AoA328", "AoA333", "AoA335", "AoA344", "AoA347", "AoA353", "AoA354"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD10",
+      "cardColor": "blue", 
+      "name": "Agile \"Singer\" Zacharias",
+      "houses": ["Brobnar", "Sanctum", "Shadows"],
+      "cards": [
+         "AoA003", "AoA004", "AoA005", "AoA009", "AoA010", "AoA020", "AoA025", "AoA027", "AoA029", "AoA034", "AoA041", "AoA046",
+         "AoA211", "AoA217", "AoA221", "AoA222", "AoA222", "AoA231", "AoA240", "AoA240", "AoA242", "AoA246", "AoA258", "AoA265",
+         "AoA270", "AoA272", "AoA277", "AoA278", "AoA279", "AoA280", "AoA281", "AoA291", "AoA294", "AoA298", "AoA311", "AoA311"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD10",
+      "cardColor": "white",
+      "name": "The Opportunistic Spymaster of Fireroom",
+      "houses": ["Brobnar", "Sanctum", "Untamed"],
+      "cards": [
+         "AoA001", "AoA001", "AoA002", "AoA004", "AoA004", "AoA006", "AoA014", "AoA015", "AoA031", "AoA031", "AoA042", "AoA045",
+         "AoA211", "AoA213", "AoA215", "AoA215", "AoA219", "AoA223", "AoA228", "AoA233", "AoA242", "AoA249", "AoA253", "AoA265",
+         "AoA320", "AoA321", "AoA328", "AoA329", "AoA330", "AoA332", "AoA334", "AoA335", "AoA337", "AoA348", "AoA354", "AoA365"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD11",
+      "cardColor": "white",
+      "name": "The Sgt. of Vinevale",
+      "houses": ["Brobnar", "Sanctum", "Untamed"],
+      "cards": [
+         "AoA001", "AoA004", "AoA004", "AoA005", "AoA006", "AoA011", "AoA011", "AoA012", "AoA013", "AoA016", "AoA018", "AoA018",
+         "AoA211", "AoA215", "AoA222", "AoA226", "AoA235", "AoA239", "AoA244", "AoA246", "AoA247", "AoA250", "AoA251", "AoA258",
+         "AoA324", "AoA325", "AoA327", "AoA327", "AoA328", "AoA328", "AoA329", "AoA330", "AoA332", "AoA335", "AoA335", "AoA355"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD12",
+      "cardColor": "white",
+      "name": "Barbosa the Famously Rustic",
+      "houses": ["Dis", "Shadows", "Untamed"],
+      "cards": [
+         "AoA054", "AoA060", "AoA061", "AoA065", "AoA065", "AoA066", "AoA066", "AoA067", "AoA082", "AoA083", "AoA086", "AoA101",
+         "AoA268", "AoA272", "AoA275", "AoA275", "AoA275", "AoA275", "AoA280", "AoA281", "AoA282", "AoA293", "AoA296", "AoA300",
+         "AoA322", "AoA323", "AoA324", "AoA328", "AoA331", "AoA331", "AoA333", "AoA333", "AoA333", "AoA345", "AoA350", "AoA364"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD13",
+      "cardColor": "green",
+      "name": "The Swarming Geneticist",
+      "houses": ["Sanctum", "Shadows", "Untamed"],
+      "cards": [
+         "AoA211", "AoA212", "AoA214", "AoA215", "AoA215", "AoA217", "AoA223", "AoA223", "AoA224", "AoA225", "AoA244", "AoA261",
+         "AoA271", "AoA271", "AoA271", "AoA283", "AoA283", "AoA284", "AoA289", "AoA295", "AoA296", "AoA297", "AoA297", "AoA304",
+         "AoA319", "AoA323", "AoA323", "AoA325", "AoA326", "AoA326", "AoA327", "AoA327", "AoA331", "AoA337", "AoA351", "AoA365"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD14",
+      "cardColor": "yellow",
+      "name": "The Advocate that Hypes Treaties",
+      "houses": ["Brobnar", "Mars", "Sanctum"],
+      "cards": [
+         "AoA002", "AoA009", "AoA010", "AoA010", "AoA014", "AoA016", "AoA019", "AoA024", "AoA030", "AoA031", "AoA031", "AoA040",
+         "AoA160", "AoA162", "AoA165", "AoA167", "AoA170", "AoA171", "AoA172", "AoA174", "AoA182", "AoA190", "AoA190", "AoA191",
+         "AoA217", "AoA217", "AoA217", "AoA218", "AoA219", "AoA220", "AoA225", "AoA233", "AoA234", "AoA245", "AoA251", "AoA259"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD15",
+      "cardColor": "blue",
+      "name": "Iei, the Leader of Clubs",
+      "houses": ["Logos", "Mars", "Shadows"],
+      "cards": [
+         "AoA109", "AoA109", "AoA112", "AoA112", "AoA113", "AoA119", "AoA120", "AoA123", "AoA123", "AoA128", "AoA137", "AoA142",
+         "AoA160", "AoA162", "AoA162", "AoA165", "AoA167", "AoA168", "AoA173", "AoA173", "AoA175", "AoA176", "AoA180", "AoA201",
+         "AoA267", "AoA268", "AoA270", "AoA274", "AoA275", "AoA275", "AoA275", "AoA280", "AoA281", "AoA283", "AoA296", "AoA309"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD16",
+      "cardColor": "white",
+      "name": "Superflux, the Madre of the Minefield",
+      "houses": ["Brobnar", "Mars", "Sanctum"],
+      "cards": [
+         "AoA001", "AoA001", "AoA003", "AoA008", "AoA010", "AoA014", "AoA015", "AoA021", "AoA022", "AoA030", "AoA046", "AoA049",
+         "AoA160", "AoA160", "AoA161", "AoA162", "AoA169", "AoA174", "AoA178", "AoA185", "AoA188", "AoA189", "AoA202", "AoA204",
+         "AoA212", "AoA217", "AoA217", "AoA217", "AoA218", "AoA220", "AoA222", "AoA222", "AoA224", "AoA227", "AoA242", "AoA244"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD17",
+      "cardColor": "blue",
+      "name": "Asia N. Coaljoukhia, the Variable",
+      "houses": ["Dis", "Logos", "Mars"],
+      "cards": [
+         "AoA054", "AoA058", "AoA059", "AoA060", "AoA064", "AoA065", "AoA069", "AoA072", "AoA075", "AoA078", "AoA084", "AoA105",
+         "AoA109", "AoA111", "AoA113", "AoA117", "AoA118", "AoA119", "AoA119", "AoA120", "AoA123", "AoA129", "AoA144", "AoA156",
+         "AoA160", "AoA162", "AoA163", "AoA168", "AoA169", "AoA171", "AoA171", "AoA172", "AoA175", "AoA179", "AoA184", "AoA188"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD18",
+      "cardColor": "orange",
+      "name": "The Preposterous Swindler of Farwell",
+      "houses": ["Dis", "Mars", "Untamed"],
+      "cards": [
+         "AoA054", "AoA055", "AoA058", "AoA060", "AoA062", "AoA067", "AoA068", "AoA070", "AoA085", "AoA086", "CotA102", "AoA107",
+         "AoA165", "AoA167", "AoA169", "AoA169", "AoA170", "AoA170", "AoA171", "AoA172", "AoA172", "AoA173", "AoA174", "AoA195",
+         "AoA319", "AoA320", "AoA321", "AoA321", "AoA331", "AoA333", "AoA337", "AoA342", "AoA345", "AoA347", "AoA348", "AoA349"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD19",
+      "cardColor": "blue",
+      "name": "Dust the Honest",
+      "houses": ["Logos", "Mars", "Sanctum"],
+      "cards": [
+         "AoA108", "AoA111", "AoA114", "AoA115", "AoA115", "AoA119", "AoA121", "AoA123", "AoA128", "AoA134", "AoA144", "AoA159",
+         "AoA164", "AoA165", "AoA166", "AoA167", "AoA169", "AoA169", "AoA169", "AoA178", "AoA182", "AoA188", "AoA191", "AoA200",
+         "AoA212", "AoA213", "AoA215", "AoA216", "AoA216", "AoA219", "AoA220", "AoA222", "AoA241", "AoA241", "AoA246", "AoA258"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD20",
+      "cardColor": "green",
+      "name": "Ulysses, College Navigator",
+      "houses": ["Dis", "Logos", "Sanctum"],
+      "cards": [
+         "AoA058", "AoA060", "AoA060", "AoA063", "AoA064", "AoA066", "AoA066", "AoA070", "AoA075", "AoA076", "AoA086", "AoA091",
+         "AoA109", "AoA110", "AoA114", "AoA115", "AoA119", "AoA121", "AoA121", "AoA121", "AoA126", "AoA131", "AoA159", "AoA159",
+         "AoA215", "AoA216", "AoA218", "AoA219", "AoA219", "AoA223", "AoA223", "AoA224", "AoA226", "AoA233", "AoA233", "AoA249"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD21",
+      "cardColor": "blue",
+      "name": "Actder, Spawn of Teloscohelper",
+      "houses": ["Shadows", "Logos", "Untamed"],
+      "cards": [
+         "AoA110", "AoA110", "AoA113", "AoA113", "AoA114", "AoA114", "AoA117", "AoA120", "AoA125", "AoA126", "AoA131", "AoA141",
+         "AoA267", "AoA268", "AoA269", "AoA270", "AoA273", "AoA276", "AoA276", "AoA277", "AoA281", "AoA284", "AoA285", "AoA290",
+         "AoA319", "AoA319", "AoA326", "AoA328", "AoA330", "AoA334", "AoA335", "AoA340", "AoA348", "AoA349", "AoA349", "AoA359"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD22",
+      "cardColor": "white",
+      "name": "Intrafather, Spawn of Grimchanger",
+      "houses": ["Logos", "Shadows", "Untamed"],
+      "cards": [
+         "AoA108", "AoA109", "AoA109", "AoA114", "AoA117", "AoA119", "AoA125", "AoA133", "AoA134", "AoA136", "AoA145", "AoA150",
+         "AoA271", "AoA277", "AoA280", "AoA280", "AoA282", "AoA282", "AoA290", "AoA295", "AoA297", "AoA301", "AoA318", "AoA318",
+         "AoA325", "AoA328", "AoA329", "AoA332", "AoA332", "AoA333", "AoA333", "AoA339", "AoA341", "AoA345", "AoA349", "AoA370"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD23",
+      "cardColor": "blue",
+      "name": "The Faux Councillor",
+      "houses": ["Mars", "Shadows", "Untamed"],
+      "cards": [
+         "AoA162", "AoA163", "AoA163", "AoA164", "AoA170", "AoA173", "AoA175", "AoA178", "AoA188", "AoA188", "AoA189", "AoA193",
+         "AoA267", "AoA270", "AoA278", "AoA282", "AoA282", "AoA283", "AoA285", "AoA293", "AoA296", "AoA296", "AoA297", "AoA305",
+         "AoA321", "AoA322", "AoA325", "AoA327", "AoA330", "AoA331", "AoA331", "AoA338", "AoA339", "AoA341", "AoA352", "AoA359"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD24",
+      "cardColor": "green",
+      "name": "Griggs, the Judge of Billowwell",
+      "houses": ["Logos", "Mars", "Untamed"],
+      "cards": [
+         "AoA108", "AoA109", "AoA110", "AoA111", "AoA112", "AoA112", "AoA118", "AoA119", "AoA121", "AoA123", "AoA133", "AoA136",
+         "AoA160", "AoA161", "AoA167", "AoA169", "AoA171", "AoA171", "AoA171", "AoA176", "AoA180", "AoA189", "AoA189", "AoA198",
+         "AoA319", "AoA320", "AoA321", "AoA323", "AoA325", "AoA329", "AoA329", "AoA336", "AoA337", "AoA344", "AoA353", "AoA370"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD25",
+      "cardColor": "blue",
+      "name": "Tyrannaanthos, theArbiter of Mirrors",
+      "houses": ["Dis", "Shadows", "Untamed"],
+      "cards": [
+         "AoA053", "AoA056", "AoA059", "AoA060", "AoA060", "AoA063", "AoA063", "AoA064", "AoA064", "AoA067", "AoA074", "AoA075",
+         "AoA210", "AoA270", "AoA271", "AoA275", "AoA276", "AoA278", "AoA279", "AoA286", "AoA288", "AoA292", "AoA300", "AoA316",
+         "AoA319", "AoA320", "AoA321", "AoA323", "AoA325", "AoA329", "AoA329", "AoA336", "AoA337", "AoA344", "AoA353", "AoA370"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD26",
+      "cardColor": "purple",
+      "name": "Newfield of Fliecourt",
+      "houses": ["Logos", "Mars", "Untamed"],
+      "cards": [
+         "AoA111", "AoA113", "AoA116", "AoA117", "AoA119", "AoA122", "AoA123", "AoA123", "AoA128", "AoA128", "AoA132", "AoA142",
+         "AoA160", "AoA161", "AoA161", "AoA167", "AoA169", "AoA169", "AoA169", "AoA171", "AoA171", "AoA174", "AoA182", "AoA187",
+         "AoA319", "AoA320", "AoA321", "AoA324", "AoA325", "AoA330", "AoA332", "AoA338", "AoA343", "AoA347", "AoA357", "AoA368"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD27",
+      "cardColor": "yellow",
+      "name": "Larsson the Brashly Red",
+      "houses": ["Brobnar", "Dis", "Logos"],
+      "cards": [
+         "AoA002", "AoA004", "AoA006", "AoA008", "AoA011", "AoA012", "AoA012", "AoA012", "AoA014", "AoA015", "AoA023", "AoA050",
+         "AoA054", "AoA055", "AoA056", "AoA056", "AoA059", "AoA061", "AoA062", "AoA065", "AoA074", "AoA083", "AoA085", "AoA106",
+         "AoA109", "AoA110", "AoA111", "AoA113", "AoA116", "AoA118", "AoA119", "AoA122", "AoA125", "AoA130", "AoA138", "AoA145"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD28",
+      "cardColor": "green",
+      "name": "Duke Dallas Thweetvia",
+      "houses": ["Brobnar", "Shadows", "Untamed"],
+      "cards": [
+         "AoA001", "AoA001", "AoA001", "AoA006", "AoA014", "AoA016", "AoA025", "AoA029", "AoA031", "AoA033", "AoA036", "AoA042",
+         "AoA268", "AoA268", "AoA271", "AoA271", "AoA272", "AoA274", "AoA277", "AoA280", "AoA288", "AoA291", "AoA291", "AoA314",
+         "AoA320", "AoA327", "AoA328", "AoA328", "AoA329", "AoA331", "AoA332", "AoA333", "AoA334", "AoA344", "AoA346", "AoA359"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD29",
+      "cardColor": "blue",
+      "name": "Krillmit, the Joke Prisoner",
+      "houses": ["Brobnar", "Shadows", "Untamed"],
+      "cards": [
+         "AoA001", "AoA002", "AoA006", "AoA006", "AoA008", "AoA010", "AoA012", "AoA018", "AoA018", "AoA021", "AoA025", "AoA051",
+         "AoA268", "AoA269", "AoA269", "AoA272", "AoA279", "AoA280", "AoA287", "AoA288", "AoA290", "AoA290", "AoA294", "AoA297",
+         "AoA320", "AoA321", "AoA322", "AoA325", "AoA326", "AoA328", "AoA333", "AoA339", "AoA344", "AoA348", "AoA350", "AoA368"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD30",
+      "cardColor": "green",
+      "name": "The Blazefighter that Corrupts Time",
+      "houses": ["Dis", "Logos", "Mars"],
+      "cards": [
+         "AoA053", "AoA055", "AoA056", "AoA056", "AoA056", "AoA064", "AoA068", "AoA069", "AoA070", "AoA071", "AoA073", "AoA107",
+         "AoA110", "AoA110", "AoA111", "AoA116", "AoA116", "AoA120", "AoA122", "AoA123", "AoA123", "AoA134", "AoA148", "AoA153",
+         "AoA161", "AoA162", "AoA162", "AoA164", "AoA165", "AoA165", "AoA171", "AoA171", "AoA174", "AoA174", "AoA185", "AoA196"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD31",
+      "cardColor": "orange",
+      "name": "Whispering Brandina of the Chamber",
+      "houses": ["Logos", "Shadows", "Untamed"],
+      "cards": [
+         "AoA109", "AoA110", "AoA112", "AoA113", "AoA113", "AoA115", "AoA115", "AoA117", "AoA119", "AoA120", "AoA120", "AoA130", "AoA",
+         "AoA267", "AoA267", "AoA270", "AoA276", "AoA278", "AoA279", "AoA279", "AoA280", "AoA281", "AoA284", "CotA301", "AoA317",
+         "AoA320", "AoA321", "AoA323", "AoA324", "AoA325", "AoA331", "AoA332", "AoA334", "AoA337", "AoA342", "AoA359", "AoA364"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD32",
+      "cardColor": "yellow",
+      "name": "Shadeya of the Swordsman's Swamp",
+      "houses": ["Brobnar", "Dis", "Untamed"],
+      "cards": [
+         "AoA002", "AoA003", "AoA009", "AoA013", "AoA013", "AoA014", "AoA019", "AoA020", "AoA020", "AoA021", "AoA027", "AoA038",
+         "AoA053", "AoA054", "AoA055", "AoA058", "AoA065", "AoA066", "AoA067", "AoA075", "AoA076", "AoA078", "AoA086", "AoA101",
+         "AoA319", "AoA320", "AoA322", "AoA323", "AoA325", "AoA329", "AoA329", "AoA333", "AoA339", "AoA340", "AoA345", "AoA361"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD33",
+      "cardColor": "purple",
+      "name": "Rustlelynn, the \"Criminal\" of The Pack",
+      "houses": ["Brobnar", "Mars", "Untamed"],
+      "cards": [
+         "AoA005", "AoA006", "AoA008", "AoA011", "AoA012", "AoA014", "AoA027", "AoA029", "AoA029", "AoA039", "AoA052", "AoA052",
+         "AoA161", "AoA161", "AoA163", "AoA164", "AoA168", "AoA168", "AoA173", "AoA173", "AoA182", "AoA182", "AoA200", "AoA210",
+         "AoA319", "AoA322", "AoA323", "AoA325", "AoA328", "AoA329", "AoA331", "AoA338", "AoA340", "AoA343", "AoA356", "AoA363"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD34",
+      "cardColor": "white",
+      "name": "Conrad P. Anvilcutter, the Infinite",
+      "houses": ["Logos", "Shadows", "Untamed"],
+      "cards": [
+         "AoA108", "AoA115", "AoA117", "AoA118", "AoA119", "AoA120", "AoA121", "AoA121", "AoA123", "AoA123", "AoA125", "AoA135",
+         "AoA272", "AoA275", "AoA276", "AoA277", "AoA279", "AoA281", "AoA290", "AoA292", "AoA293", "AoA295", "AoA304", "AoA317",
+         "AoA319", "AoA322", "AoA326", "AoA328", "AoA331", "AoA332", "AoA334", "AoA339", "AoA339", "AoA343", "AoA349", "AoA351"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD35",
+      "cardColor": "yellow",
+      "name": "The Affable Baronette of Goldenwarren",
+      "houses": ["Brobnar", "Logos", "Shadows"],
+      "cards": [
+         "AoA002", "AoA003", "AoA003", "AoA005", "AoA005", "AoA007", "AoA008", "AoA010", "AoA010", "AoA015", "AoA015", "AoA019",
+         "AoA111", "AoA113", "AoA114", "AoA114", "AoA115", "AoA118", "AoA118", "AoA118", "AoA120", "AoA132", "AoA137", "AoA154",
+         "AoA270", "AoA275", "AoA276", "AoA288", "AoA288", "AoA301", "AoA308", "AoA308", "AoA308", "AoA308", "AoA308", "AoA317"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD36",
+      "cardColor": "blue",
+      "name": "Immediately Claustrophobic Elwood",
+      "houses": ["Dis", "Sanctum", "Untamed"],
+      "cards": [
+         "AoA054", "AoA055", "AoA056", "AoA062", "AoA064", "AoA065", "AoA065", "AoA066", "AoA070", "AoA076", "AoA082", "AoA094",
+         "AoA212", "AoA212", "AoA216", "AoA218", "AoA219", "AoA219", "AoA221", "AoA226", "AoA230", "AoA233", "AoA234", "AoA234",
+         "AoA322", "AoA324", "AoA325", "AoA327", "AoA327", "AoA327", "AoA328", "AoA330", "AoA332", "AoA332", "AoA340", "AoA354"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD37",
+      "cardColor": "green",
+      "name": "Gaeme the Macabre",
+      "houses": ["Brobnar", "Sanctum", "Untamed"],
+      "cards": [
+         "AoA002", "AoA004", "AoA005", "AoA007", "AoA007", "AoA009", "AoA012", "AoA015", "AoA020", "AoA024", "AoA028", "AoA038",
+         "AoA211", "AoA212", "AoA215", "AoA216", "AoA217", "AoA217", "AoA219", "AoA223", "AoA223", "AoA225", "AoA240", "AoA256",
+         "AoA320", "AoA321", "AoA322", "AoA326", "AoA330", "AoA332", "AoA332", "AoA333", "AoA334", "AoA344", "AoA345", "AoA350"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD38",
+      "cardColor": "white",
+      "name": "Scofflaw Iago Whisperhouse",
+      "houses": ["Logos", "Mars", "Sanctum"],
+      "cards": [
+         "AoA110", "AoA110", "AoA111", "AoA111", "AoA115", "AoA116", "AoA121", "AoA123", "AoA123", "AoA124", "AoA129", "AoA134",
+         "AoA161", "AoA165", "AoA166", "AoA166", "AoA169", "AoA171", "AoA173", "AoA179", "AoA180", "AoA180", "AoA194", "AoA204",
+         "AoA212", "AoA213", "AoA213", "AoA214", "AoA214", "AoA215", "AoA216", "AoA216", "AoA218", "AoA218", "AoA220", "AoA220"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD39",
+      "cardColor": "orange",
+      "name": "Benyamin, Bishopstead Smith",
+      "houses": ["Logos", "Sanctum", "Shadows"],
+      "cards": [
+         "AoA108", "AoA112", "AoA114", "AoA114", "AoA116", "AoA117", "AoA119", "AoA120", "AoA121", "AoA122", "AoA123", "AoA124",
+         "AoA216", "AoA217", "AoA219", "AoA221", "AoA223", "AoA224", "AoA225", "AoA227", "AoA227", "AoA231", "AoA237", "AoA265",
+         "AoA272", "AoA273", "AoA274", "AoA276", "AoA277", "AoA278", "AoA279", "AoA279", "AoA282", "AoA284", "AoA285", "AoA300"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD40",
+      "cardColor": "red",
+      "name": "Tinnsey, Admiral of the Lousy Clubhouse",
+      "houses": ["Logos", "Sanctum", "Shadows"],
+      "cards": [
+         "AoA113", "AoA113", "AoA113", "AoA117", "AoA118", "AoA118", "AoA119", "AoA122", "AoA130", "AoA131", "AoA133", "AoA137",
+         "AoA214", "AoA214", "AoA215", "AoA220", "AoA225", "AoA225", "AoA228", "AoA234", "AoA240", "AoA244", "AoA246", "AoA251",
+         "AoA269", "AoA272", "AoA277", "AoA278", "AoA279", "AoA280", "AoA280", "AoA289", "AoA291", "AoA291", "AoA297", "AoA310"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD41",
+      "cardColor": "red",
+      "name": "Kareem \"Eliminator\" Heltower",
+      "houses": ["Brobnar", "Mars", "Shadows"],
+      "cards": [
+         "AoA004", "AoA004", "AoA011", "AoA015", "AoA016", "AoA020", "AoA022", "AoA026", "AoA027", "AoA031", "AoA032", "AoA040",
+         "AoA161", "AoA162", "AoA162", "AoA162", "AoA165", "AoA165", "AoA167", "AoA171", "AoA172", "AoA175", "AoA188", "AoA195",
+         "AoA267", "AoA272", "AoA273", "AoA274", "AoA274", "AoA276", "AoA276", "AoA280", "AoA285", "AoA292", "AoA296", "AoA297"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD42",
+      "cardColor": "blue",
+      "name": "Oni, Nettlesome Marsh Philosopher",
+      "houses": ["Brobnar", "Logos", "Sanctum"],
+      "cards": [
+         "AoA001", "AoA002", "AoA004", "AoA005", "AoA006", "AoA008", "AoA010", "AoA012", "AoA016", "AoA029", "AoA031", "AoA050",
+         "CotA108", "CotA109", "AoA110", "AoA111", "AoA115", "AoA115", "AoA116", "AoA116", "AoA118", "AoA130", "AoA138", "AoA141",
+         "AoA211", "AoA216", "AoA216", "AoA218", "AoA219", "AoA223", "AoA224", "AoA231", "AoA236", "AoA244", "AoA245", "AoA255"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD43",
+      "cardColor": "red",
+      "name": "Doomros, theBig-Boned Pub Wrestler",
+      "houses": ["Brobnar", "Shadows", "Untamed"],
+      "cards": [
+         "AoA001", "AoA001", "AoA004", "AoA004", "AoA008", "AoA008", "AoA011", "AoA012", "AoA014", "AoA015", "AoA044", "AoA046",
+         "AoA269", "AoA271", "AoA271", "AoA275", "AoA276", "AoA276", "AoA278", "AoA283", "AoA286", "AoA294", "AoA295", "AoA297",
+         "AoA319", "AoA319", "AoA321", "AoA322", "AoA326", "AoA327", "AoA327", "AoA328", "AoA331", "AoA333", "AoA340", "AoA362"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD44",
+      "cardColor": "yellow",
+      "name": "Hexx the Underhanded",
+      "houses": ["Brobnar", "Shadows", "Untamed"],
+      "cards": [
+         "AoA004", "AoA009", "AoA010", "AoA011", "AoA011", "CotA012", "AoA013", "AoA014", "AoA016", "AoA017", "AoA022", "AoA045",
+         "AoA268", "AoA268", "AoA269", "AoA271", "AoA272", "AoA272", "AoA274", "AoA275", "AoA279", "AoA283", "AoA293", "AoA299",
+         "AoA288", "AoA319", "AoA320", "AoA321", "AoA324", "AoA328", "AoA328", "AoA330", "AoA336", "AoA339", "AoA342", "AoA345"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD45",
+      "cardColor": "orange",
+      "name": "Nihil Silverzenith, the Frightening Artisan",
+      "houses": ["Dis", "Mars", "Sanctum"],
+      "cards": [
+         "AoA053", "AoA055", "AoA058", "AoA059", "AoA060", "AoA062", "AoA064", "AoA065", "AoA073", "AoA079", "AoA082", "AoA087",
+         "AoA160", "AoA162", "AoA164", "AoA164", "AoA166", "AoA170", "AoA171", "AoA174", "AoA177", "AoA181", "AoA194", "AoA195",
+         "AoA212", "AoA215", "AoA217", "AoA217", "AoA219", "AoA220", "AoA221", "AoA226", "CotA227", "AoA230", "AoA233", "AoA249"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD46",
+      "cardColor": "white",
+      "name": "Commander \"Pitch-Perfect\" Cooke ",
+      "houses": ["Mars", "Shadows", "Untamed"],
+      "cards": [
+         "AoA160", "AoA160", "AoA161", "AoA161", "AoA171", "AoA175", "AoA175", "AoA179", "AoA180", "AoA182", "AoA188", "AoA210",
+         "AoA267", "AoA273", "AoA276", "AoA276", "AoA279", "AoA284", "AoA284", "AoA285", "AoA286", "AoA287", "AoA291", "AoA297",
+         "AoA320", "AoA320", "AoA320", "AoA321", "AoA321", "AoA324", "AoA325", "AoA326", "AoA326", "AoA327", "AoA352", "CotA358"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD47",
+      "cardColor": "purple",
+      "name": "Aaronson of Holmden",
+      "houses": ["Logos", "Shadows", "Untamed"],
+      "cards": [
+         "AoA110", "AoA111", "AoA113", "AoA115", "AoA116", "AoA116", "AoA122", "AoA122", "AoA126", "AoA126", "AoA132", "AoA154",
+         "AoA267", "AoA268", "AoA272", "AoA272", "AoA275", "AoA278", "AoA279", "AoA280", "AoA281", "AoA284", "AoA288", "AoA305",
+         "AoA320", "AoA321", "AoA321", "AoA326", "AoA328", "AoA331", "AoA331", "AoA331", "AoA333", "AoA334", "AoA343", "AoA344"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD48",
+      "cardColor": "green",
+      "name": "Abrasu, the Scrivener of Curses",
+      "houses": ["Dis", "Sanctum", "Untamed"],
+      "cards": [
+         "AoA054", "AoA060", "AoA060", "AoA061", "AoA062", "AoA064", "AoA067", "AoA068", "AoA068", "AoA074", "AoA078", "AoA085",
+         "AoA215", "AoA217", "AoA220", "AoA220", "AoA221", "AoA223", "AoA225", "AoA233", "AoA241", "AoA245", "AoA246", "AoA258",
+         "AoA322", "AoA322", "AoA326", "AoA327", "AoA334", "AoA338", "AoA339", "AoA344", "AoA345", "AoA346", "AoA355", "AoA369"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD49",
+      "cardColor": "blue",
+      "name": "Israudr \"Warlord Trashcan\" Tarantelli",
+      "houses": ["Brobnar", "Logos", "Mars"],
+      "cards": [
+         "AoA002", "AoA004", "AoA005", "AoA006", "AoA008", "AoA013", "AoA013", "AoA014", "AoA014", "AoA016", "AoA017", "AoA038",
+         "AoA110", "AoA113", "AoA115", "AoA115", "AoA116", "AoA116", "AoA117", "AoA118", "AoA118", "AoA119", "AoA131", "AoA134",
+         "AoA164", "AoA165", "AoA167", "AoA168", "AoA169", "AoA173", "AoA176", "AoA178", "AoA184", "AoA186", "AoA186", "AoA197"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD50",
+      "cardColor": "blue",
+      "name": "Ozias, Fliecenter Rascal",
+      "houses": ["Logos", "Sanctum", "Untamed"],
+      "cards": [
+         "AoA117", "AoA118", "AoA118", "AoA121", "AoA122", "AoA123", "AoA125", "AoA125", "AoA127", "AoA128", "AoA139", "AoA142",
+         "AoA211", "AoA213", "AoA213", "AoA215", "AoA216", "AoA219", "AoA221", "AoA222", "AoA234", "AoA244", "AoA246", "AoA251",
+         "AoA321", "AoA322", "AoA324", "AoA326", "AoA327", "AoA327", "AoA329", "AoA329", "AoA331", "AoA337", "AoA346", "AoA359"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD51",
+      "cardColor": "yellow",
+      "name": "The Crook that Melts Time",
+      "houses": ["Brobnar", "Logos", "Dis"],
+      "cards": [
+         "AoA002", "AoA005", "AoA007", "AoA009", "AoA010", "AoA010", "AoA012", "AoA012", "AoA016", "AoA026", "AoA026", "AoA046",
+         "AoA054", "AoA060", "AoA060", "AoA061", "AoA062", "AoA064", "AoA064", "AoA067", "AoA084", "AoA097", "AoA098", "AoA098",
+         "AoA108", "AoA108", "AoA112", "AoA114", "AoA118", "AoA119", "AoA120", "AoA125", "AoA132", "AoA134", "AoA136", "AoA159"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD52",
+      "cardColor": "yellow",
+      "name": "Osteoshow, the Splunker Naysayer",
+      "houses": ["Logos", "Mars", "Untamed"],
+      "cards": [
+         "AoA111", "AoA112", "AoA112", "AoA115", "AoA116", "AoA118", "AoA121", "AoA124", "AoA126", "AoA127", "AoA133", "AoA147",
+         "AoA163", "AoA166", "AoA169", "AoA170", "AoA173", "AoA178", "AoA181", "AoA188", "AoA196", "AoA198", "AoA209", "AoA319",
+         "AoA324", "AoA324", "AoA325", "AoA326", "AoA326", "AoA327", "AoA333", "AoA335", "AoA340", "AoA341", "AoA344", "AoA364"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD53",
+      "cardColor": "yellow",
+      "name": "Truly Hovering Ricci",
+      "houses": ["Dis", "Logos", "Shadows"],
+      "cards": [
+         "AoA058", "AoA062", "AoA062", "AoA062", "AoA065", "AoA070", "AoA074", "AoA074", "AoA082", "AoA082", "AoA085", "AoA088",
+         "AoA109", "AoA109", "AoA111", "AoA113", "AoA116", "AoA118", "AoA121", "AoA123", "AoA127", "AoA127", "AoA130", "AoA134",
+         "AoA267", "AoA269", "AoA271", "AoA274", "AoA274", "AoA275", "AoA275", "AoA278", "AoA280", "AoA287", "AoA297", "AoA305"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD54",
+      "cardColor": "red",
+      "name": "H. Naser, Holorook's Sliver Whiz",
+      "houses": ["Dis", "Mars", "Sanctum"],
+      "cards": [
+         "AoA053", "AoA054", "AoA058", "AoA061", "AoA063", "AoA066", "AoA067", "AoA069", "AoA076", "AoA082", "AoA083", "AoA084",
+         "AoA162", "AoA163", "AoA165", "AoA167", "AoA169", "AoA171", "AoA172", "AoA173", "AoA175", "AoA175", "AoA182", "AoA203",
+         "AoA212", "AoA214", "AoA215", "AoA218", "AoA218", "AoA222", "AoA223", "AoA226", "AoA239", "AoA246", "AoA248", "AoA331"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD55",
+      "cardColor": "red",
+      "name": "Slyly Wooden Clor",
+      "houses": ["Brobnar", "Mars", "Untamed"],
+      "cards": [
+         "AoA007", "AoA007", "AoA008", "AoA008", "AoA009", "AoA009", "AoA012", "AoA014", "AoA016", "AoA021", "AoA027", "AoA035",
+         "AoA161", "AoA168", "AoA169", "AoA171", "AoA171", "AoA176", "AoA179", "AoA179", "AoA181", "AoA191", "AoA193", "AoA202",
+         "AoA321", "AoA323", "AoA323", "AoA324", "AoA324", "AoA327", "AoA330", "AoA331", "AoA340", "AoA347", "AoA353", "AoA355"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD56",
+      "cardColor": "yellow",
+      "name": "Tempest the Pushy",
+      "houses": ["Dis", "Logos", "Untamed"],
+      "cards": [
+         "AoA054", "AoA055", "AoA058", "AoA059", "AoA060", "AoA062", "AoA066", "AoA066", "AoA067", "AoA067", "AoA081", "AoA116",
+         "AoA108", "AoA109", "AoA112", "AoA119", "AoA121", "AoA122", "AoA122", "AoA123", "AoA130", "AoA131", "AoA143", "AoA147",
+         "AoA319", "AoA319", "AoA320", "AoA322", "AoA324", "AoA329", "AoA329", "AoA332", "AoA338", "AoA347", "AoA351", "AoA355"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD57",
+      "cardColor": "orange",
+      "name": "They who Whimsically Uses Culture",
+      "houses": ["Dis", "Mars", "Sanctum"],
+      "cards": [
+         "AoA057", "AoA058", "AoA059", "AoA060", "AoA062", "AoA066", "AoA069", "AoA070", "AoA071", "AoA077", "AoA083", "AoA099",
+         "AoA161", "AoA164", "AoA166", "AoA170", "AoA174", "AoA176", "AoA178", "AoA178", "AoA184", "AoA188", "AoA194", "AoA209",
+         "AoA211", "AoA211", "AoA213", "AoA213", "AoA215", "AoA219", "AoA220", "AoA220", "AoA221", "AoA225", "AoA245", "AoA253"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD58",
+      "cardColor": "yellow",
+      "name": "Smoothebony, the Desperado Rascal",
+      "houses": ["Dis", "Logos", "Shadows"],
+      "cards": [
+         "AoA057", "AoA057", "AoA059", "AoA062", "AoA064", "073", "AoA079", "AoA080", "AoA082", "AoA086", "AoA089", "AoA091",
+         "AoA108", "AoA110", "AoA116", "AoA116", "AoA117", "AoA118", "AoA121", "AoA128", "AoA130", "AoA134", "AoA148", "AoA156",
+         "AoA270", "AoA273", "AoA275", "AoA277", "AoA279", "AoA281", "AoA282", "AoA287", "AoA290", "AoA294", "AoA300", "AoA313"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD59",
+      "cardColor": "red",
+      "name": "K. Q. Ragegiant of the Broken Strand",
+      "houses": ["Brobnar", "Dis", "Mars"],
+      "cards": [
+         "AoA003", "AoA004", "AoA005", "AoA014", "AoA014", "AoA015", "AoA023", "AoA028", "AoA029", "AoA038", "AoA040", "AoA046",
+         "AoA053", "AoA057", "AoA060", "AoA061", "AoA063", "AoA065", "AoA066", "AoA066", "AoA068", "AoA070", "AoA078", "AoA095",
+         "AoA162", "AoA163", "AoA164", "AoA165", "AoA165", "AoA167", "AoA168", "AoA170", "AoA172", "AoA178", "AoA185", "AoA201"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD60",
+      "cardColor": "green",
+      "name": "The Wolf that Drips Sorcery",
+      "houses": ["Brobnar", "Sanctum", "Shadows"],
+      "cards": [
+         "AoA007", "AoA008", "AoA009", "AoA012", "AoA020", "AoA022", "AoA030", "AoA039", "AoA047", "AoA050", "AoA052", "AoA052",
+         "AoA212", "AoA216", "AoA220", "AoA221", "AoA223", "AoA224", "AoA225", "AoA226", "AoA228", "AoA233", "AoA242", "AoA251",
+         "AoA269", "AoA272", "AoA273", "AoA278", "AoA297", "AoA308", "AoA308", "AoA308", "AoA308", "AoA308", "AoA308", "AoA308"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD61",
+      "cardColor": "white",
+      "name": "The Always Magical Priestess of Nightlake",
+      "houses": ["Dis", "Logos", "Shadows"],
+      "cards": [
+         "AoA056", "AoA056", "AoA057", "AoA062", "AoA062", "AoA064", "AoA066", "AoA068", "AoA074", "AoA091", "AoA099", "AoA103",
+         "AoA108", "AoA109", "AoA110", "AoA113", "AoA117", "AoA117", "AoA118", "AoA118", "AoA119", "AoA120", "AoA122", "AoA131",
+         "AoA268", "AoA272", "AoA272", "AoA272", "AoA273", "AoA274", "AoA275", "AoA276", "AoA283", "AoA291", "AoA292", "AoA318"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD62",
+      "cardColor": "green",
+      "name": "Bronzebash, the Beautiful Crucible Bull",
+      "houses": ["Brobnar", "Sanctum", "Untamed"],
+      "cards": [
+         "AoA002", "AoA003", "AoA004", "AoA008", "AoA009", "AoA009", "AoA011", "AoA014", "AoA016", "AoA019", "AoA041", "AoA042",
+         "AoA211", "AoA212", "AoA218", "AoA220", "AoA221", "AoA225", "AoA225", "AoA226", "AoA233", "AoA242", "AoA247", "AoA253",
+         "AoA322", "AoA324", "AoA325", "AoA326", "AoA327", "AoA328", "AoA329", "AoA330", "AoA333", "AoA335", "AoA350", "AoA354"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD63",
+      "cardColor": "blue",
+      "name": "E.Ikari, Willowtown's Perfect Ghostwriter",
+      "houses": ["Dis", "Shadows", "Untamed"],
+      "cards": [
+         "AoA054", "AoA055", "AoA055", "AoA056", "AoA057", "AoA058", "AoA059", "AoA066", "AoA067", "AoA069", "AoA069", "AoA100",
+         "AoA268", "AoA272", "AoA273", "AoA274", "AoA275", "AoA277", "AoA279", "AoA281", "AoA289", "AoA289", "AoA292", "AoA302",
+         "AoA319", "AoA320", "AoA323", "AoA330", "AoA331", "AoA331", "AoA334", "AoA334", "AoA339", "AoA341", "AoA347", "AoA354"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD64",
+      "cardColor": "red",
+      "name": "Anixoic, the Cynic of Niffle Apes",
+      "houses": ["Brobnar", "Sanctum", "Shadows"],
+      "cards": [
+         "AoA004", "AoA006", "AoA007", "AoA008", "AoA009", "AoA013", "AoA015", "AoA016", "AoA016", "AoA025", "AoA027", "AoA043",
+         "AoA214", "AoA214", "AoA215", "AoA215", "AoA219", "AoA223", "AoA225", "AoA242", "AoA243", "AoA243", "AoA246", "AoA261",
+         "AoA268", "AoA268", "AoA273", "AoA276", "AoA283", "AoA284", "AoA285", "AoA287", "AoA292", "AoA298", "AoA306", "AoA316"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD65",
+      "cardColor": "green",
+      "name": "Castor of Winterhall",
+      "houses": ["Logos", "Sanctum", "Shadows"],
+      "cards": [
+         "AoA111", "AoA113", "AoA114", "AoA115", "AoA120", "AoA123", "AoA127", "AoA128", "AoA128", "AoA129", "AoA132", "AoA152",
+         "AoA212", "AoA213", "AoA221", "AoA221", "AoA224", "AoA224", "AoA231", "AoA236", "AoA241", "AoA242", "AoA242", "AoA265",
+         "AoA268", "AoA271", "AoA273", "AoA274", "AoA274", "AoA277", "AoA278", "AoA279", "AoA281", "AoA284", "AoA290", "AoA306"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD66",
+      "cardColor": "purple",
+      "name": "Troutater, theGenius of the Harber",
+      "houses": ["Mars", "Shadows", "Untamed"],
+      "cards": [
+         "AoA162", "AoA165", "AoA167", "AoA167", "AoA169", "AoA169", "AoA170", "AoA171", "AoA172", "AoA180", "AoA190", "AoA204",
+         "AoA267", "AoA269", "AoA276", "AoA277", "AoA277", "AoA279", "AoA281", "AoA281", "AoA287", "AoA294", "AoA297", "AoA301",
+         "AoA319", "AoA322", "AoA328", "AoA331", "AoA332", "AoA333", "AoA334", "AoA335", "AoA336", "AoA348", "AoA349", "AoA357"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD67",
+      "cardColor": "orange",
+      "name": "Centibearer, the Solitary Glacier Lady",
+      "houses": ["Brobnar", "Mars", "Untamed"],
+      "cards": [
+         "AoA006", "AoA009", "AoA009", "AoA014", "AoA014", "AoA015", "AoA015", "AoA020", "AoA028", "AoA031", "AoA034", "AoA045",
+         "AoA164", "AoA166", "AoA167", "AoA169", "AoA170", "AoA170", "AoA171", "AoA173", "AoA173", "AoA176", "AoA178", "AoA180",
+         "AoA319", "AoA320", "AoA321", "AoA325", "AoA326", "AoA327", "AoA327", "AoA334", "AoA336", "AoA336", "AoA341", "AoA360"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD68",
+      "cardColor": "white",
+      "name": "Soren, Solitary Ruins Artisan",
+      "houses": ["Brobnar", "Logos", "Mars"],
+      "cards": [
+         "AoA007", "AoA007", "AoA010", "AoA010", "AoA012", "AoA013", "AoA013", "AoA013", "AoA015", "AoA024", "AoA026", "AoA051",
+         "AoA109", "AoA110", "AoA114", "AoA116", "AoA118", "AoA122", "AoA126", "AoA132", "AoA132", "AoA138", "AoA138", "AoA143",
+         "AoA160", "AoA163", "AoA165", "AoA166", "AoA169", "AoA171", "AoA171", "AoA177", "AoA182", "AoA183", "AoA186", "AoA202"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD69",
+      "cardColor": "orange",
+      "name": "Mooney of Georgeshouse",
+      "houses": ["Dis", "Sanctum", "Shadows"],
+      "cards": [
+         "AoA053", "AoA057", "AoA063", "AoA063", "AoA066", "AoA068", "AoA074", "AoA079", "AoA092", "AoA097", "AoA098", "AoA098",
+         "AoA213", "AoA214", "AoA218", "AoA218", "AoA220", "AoA222", "AoA224", "AoA224", "AoA225", "AoA226", "AoA228", "AoA239",
+         "AoA267", "AoA272", "AoA272", "AoA274", "AoA277", "AoA279", "AoA280", "AoA282", "AoA290", "AoA295", "AoA296", "AoA307"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD70",
+      "cardColor": "blue",
+      "name": "Larunrat, the\"Empiricist\" of Technology",
+      "houses": ["Logos", "Sanctum", "Shadows"],
+      "cards": [
+         "AoA110", "AoA113", "AoA113", "AoA115", "AoA119", "AoA126", "AoA130", "AoA132", "AoA135", "AoA136", "AoA137", "AoA149",
+         "AoA212", "AoA212", "AoA213", "AoA213", "AoA214", "AoA216", "AoA218", "AoA222", "AoA225", "AoA235", "AoA242", "AoA243",
+         "AoA267", "AoA267", "AoA267", "AoA268", "AoA270", "AoA276", "AoA277", "AoA278", "AoA279", "AoA293", "AoA295", "AoA299"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD71",
+      "cardColor": "purple",
+      "name": "Crocag Ievos Omnilas",
+      "houses": ["Brobnar", "Mars", "Sanctum"],
+      "cards": [
+         "AoA003", "AoA003", "AoA006", "AoA013", "AoA013", "AoA014", "AoA016", "AoA019", "AoA020", "AoA027", "AoA032", "AoA043",
+         "AoA160", "AoA161", "AoA162", "AoA165", "AoA166", "AoA168", "AoA168", "AoA168", "AoA172", "AoA173", "AoA182", "AoA203",
+         "AoA211", "AoA216", "AoA216", "AoA216", "AoA217", "AoA221", "AoA222", "AoA223", "AoA224", "AoA228", "AoA242", "AoA246"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD72",
+      "cardColor": "orange",
+      "name": "The Emptiness who Conquers Horror",
+      "houses": ["Dis", "Mars", "Sanctum"],
+      "cards": [
+         "AoA054", "AoA056", "AoA057", "AoA062", "AoA062", "AoA069", "AoA075", "AoA077", "AoA091", "AoA097", "AoA098", "AoA098",
+         "AoA161", "AoA162", "AoA165", "AoA174", "AoA174", "AoA175", "AoA181", "AoA185", "AoA187", "AoA188", "AoA188", "AoA190",
+         "AoA212", "AoA216", "AoA218", "AoA221", "AoA222", "AoA226", "AoA230", "AoA236", "AoA241", "AoA241", "AoA250", "AoA254"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD73",
+      "cardColor": "yellow",
+      "name": "Estelle, Feeding Pit Expert",
+      "houses": ["Logos", "Mars", "Shadows"],
+      "cards": [
+         "AoA111", "AoA116", "AoA117", "AoA118", "AoA118", "AoA121", "AoA122", "AoA125", "AoA125", "AoA128", "AoA134", "AoA159",
+         "AoA160", "AoA161", "AoA162", "AoA162", "AoA164", "AoA165", "AoA165", "AoA170", "AoA171", "AoA178", "AoA190", "AoA210",
+         "AoA270", "AoA270", "AoA271", "AoA277", "AoA278", "AoA279", "AoA281", "AoA282", "AoA289", "AoA289", "AoA294", "AoA298"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD74",
+      "cardColor": "red",
+      "name": "Sandevv, Cherryshaw Rider",
+      "houses": ["Brobnar", "Logos", "Untamed"],
+      "cards": [
+         "AoA001", "AoA004", "AoA005", "AoA005", "AoA006", "AoA007", "AoA011", "AoA013", "AoA025", "AoA025", "AoA031", "AoA032",
+         "AoA110", "AoA112", "AoA112", "AoA115", "AoA115", "AoA119", "AoA120", "AoA129", "AoA132", "AoA134", "AoA138", "AoA142",
+         "AoA319", "AoA322", "AoA322", "AoA323", "AoA326", "AoA327", "AoA330", "AoA334", "AoA337", "AoA347", "AoA350", "AoA359"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD75",
+      "cardColor": "green",
+      "name": "Chesswick, the Luddite of Corruption",
+      "houses": ["Logos", "Mars", "Sanctum"],
+      "cards": [
+         "AoA108", "AoA110", "AoA111", "AoA113", "AoA115", "AoA116", "AoA116", "AoA117", "AoA120", "AoA127", "AoA136", "AoA150",
+         "AoA162", "AoA162", "AoA163", "AoA163", "AoA167", "AoA168", "AoA168", "AoA169", "AoA175", "AoA180", "AoA184", "AoA187",
+         "AoA211", "AoA214", "AoA216", "AoA218", "AoA218", "AoA220", "AoA220", "AoA222", "AoA222", "AoA232", "AoA250", "AoA253"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "AoAD76",
+      "cardColor": "yellow",
+      "name": "The Woman that Delivers The Good",
+      "houses": ["Logos", "Sanctum", "Shadows"],
+      "cards": [
+         "AoA108", "AoA109", "AoA110", "AoA114", "AoA120", "AoA121", "AoA122", "AoA123", "AoA126", "AoA132", "AoA133", "AoA143",
+         "AoA216", "AoA216", "AoA218", "AoA220", "AoA222", "AoA226", "AoA227", "AoA228", "AoA233", "AoA241", "AoA245", "AoA251",
+         "AoA268", "AoA270", "AoA270", "AoA272", "AoA277", "AoA279", "AoA279", "AoA284", "AoA290", "AoA291", "AoA292", "AoA317"
+      ],
+      "set": "Age of Ascension"
+   },
+   {
+      "key": "WC1",
+      "cardColor": "blue",
+      "name": "The Woman that Uses Everything",
+      "houses": ["Logos", "Saurian", "Untamed"],
+      "cards": [
+         "WC132", "WC135", "WC136", "WC137", "WC138", "WC141", "WC142", "WC146", "WC153", "WC158", "WC163", "WC179",
+         "WC184", "WC184", "WC186", "WC187", "WC189", "WC192", "WC195", "WC197", "WC197", "WC201", "WC217", "WC228",
+         "WC353", "WC354", "WC355", "WC357", "WC357", "WC362", "WC363", "WC368", "WC368", "WC372", "WC378", "WC379"
+      ],
+      "set": "Worlds Collide"
+   },
+   {
+      "key": "WCD2",
+      "cardColor": "white",
+      "name": "A. Riddle, Ashverse's Existential Director",
+      "houses": ["Brobnar", "Dis", "Logos"],
+      "cards": [
+         "WC004", "WC008", "WC010", "WC011", "WC012", "WC017", "WC019", "WC029", "WC032", "WC041", "WC055", "WC063",
+         "WC074", "WC074", "WC077", "WC078", "WC079", "WC085", "WC086", "WC087", "WC097", "WC100", "WC113", "WC125",
+         "WC129", "WC130", "WC132", "WC135", "WC136", "WC137", "WC141", "WC141", "WC145", "WC149", "WC151", "WC168"
+      ],
+      "set": "Worlds Collide"
+   },
+   {
+      "key": "MMD1",
+      "cardColor": "red",
+      "name": "Madalyn \"Ms. Marine Queen\" Vinograd",
+      "houses": ["Logos", "Star Alliance", "Untamed"],
+      "cards": [
+         "MM072", "MM073", "MM074", "MM080", "MM081", "MM085", "MM088", "MM096", "MM097", "MM104", "MM108", "MM118",
+         "MM302", "MM304", "MM304", "MM305", "MM309", "MM310", "MM312", "MM312", "MM313", "MM325", "MM327", "MM361",
+         "MM371", "MM371", "MM372", "MM374", "MM375", "MM375", "MM383", "MM386", "MM390", "MM390", "MM402", "MM410"
+      ],
+      "set": "Mass Mutations"
+   },
+   {
+      "key": "MMD2",
+      "cardColor": "yellow",
+      "name": "Sweettula, Mainframe Wrestler",
+      "houses": ["Dis", "Logos", "Shadows"],
+      "cards": [
+         "MM002", "MM005", "MM010", "MM010", "MM012", "MM013", "MM013", "MM015", "MM015", "MM026", "MM031", "MM033",
+         "MM066", "MM069", "MM070", "MM072", "MM078", "MM085", "MM085", "MM086", "MM088", "MM097", "MM100", "MM109",
+         "MM249", "MM252", "MM253", "MM254", "MM254", "MM255", "MM258", "MM260", "MM274", "MM277", "MM296", "MM298"
+      ],
+      "set": "Mass Mutations"
+   },
+   {
+      "key": "MMD3",
+      "cardColor": "green",
+      "name": "Dr. Carnipower, the Invisible Sheriff",
+      "houses": ["Sanctum", "Saurian", "Star Alliance"],
+      "cards": [
+         "MM127", "MM127", "MM128", "MM129", "MM131", "MM135", "MM135", "MM137", "MM141", "MM149", "MM152", "MM160",
+         "MM183", "MM184", "MM184", "MM186", "MM187", "MM188", "MM189", "MM193", "MM196", "MM198", "MM218", "MM238",
+         "MM302", "MM304", "MM304", "MM305", "MM313", "MM313", "MM315", "MM316", "MM316", "MM326", "MM345", "MM357"
+      ],
+      "set": "Mass Mutations"
+   },
+   {
+      "key": "MMD4",
+      "cardColor": "orange",
+      "name": "Fearform of the Cruciblist's Stage",
+      "houses": ["Shadows", "Star Alliance", "Untamed"],
+      "cards": [
+         "MM248", "MM249", "MM249", "MM251", "MM251", "MM254", "MM255", "MM255", "MM257", "MM257", "MM258", "MM274",
+         "MM303", "MM307", "MM308", "MM308", "MM308", "MM310", "MM310", "MM312", "MM315", "MM317", "MM343", "MM350",
+         "MM362", "MM365", "MM370", "MM374", "MM377", "MM386", "MM387", "MM389", "MM389", "MM392", "MM395", "MM404"
+      ],
+      "set": "Mass Mutations"
+   },
+   {
+      "key": "MMD5",
+      "cardColor": "orange",
+      "name": "Daraborn, the Lord Malcontent",
+      "houses": ["Dis", "Star Alliance", "Untamed"],
+      "cards": [
+         "MM004", "MM006", "MM007", "MM009", "MM012", "MM012", "MM013", "MM013", "MM026", "MM050", "MM063", "MM065",
+         "MM303", "MM305", "MM310", "MM310", "MM312", "MM314", "MM315", "MM321", "MM328", "MM329", "MM340", "MM369",
+         "MM341", "MM363", "MM366", "MM367", "MM367", "MM368", "MM375", "MM376", "MM376", "MM384", "MM386", "MM387"
+      ],
+      "set": "Mass Mutations"
+   },
+   {
+      "key": "MMD6",
+      "cardColor": "green",
+      "name": "Foolishly Jammed Seraphina",
+      "houses": ["Dis", "Saurian", "Star Alliance"],
+      "cards": [
+         "MM002", "MM003", "MM009", "MM011", "MM013", "MM025", "MM026", "MM027", "MM030", "MM030", "MM046", "MM063",
+         "MM183", "MM184", "MM186", "MM187", "MM188", "MM189", "MM193", "MM195", "MM202", "MM202", "MM241", "MM243",
+         "MM302", "MM304", "MM304", "MM307", "MM312", "MM315", "MM325", "MM327", "MM327", "MM330", "MM339", "MM348"
+      ],
+      "set": "Mass Mutations"
+   },
+   {
+      "key": "MMD7",
+      "cardColor": "blue",
+      "name": "Percival, Sagemond Dignitary",
+      "houses": ["Logos", "Sanctum", "Star Alliance"],
+      "cards": [
+         "MM066", "MM067", "MM069", "MM071", "MM073", "MM074", "MM074", "MM075", "MM076", "MM081", "MM082", "MM092",
+         "MM126", "MM126", "MM129", "MM130", "MM135", "MM138", "MM141", "MM145", "MM150", "MM155", "MM159", "MM176",
+         "MM303", "MM303", "MM303", "MM305", "MM310", "MM313", "MM315", "MM315", "MM316", "MM317", "MM329", "MM338"
+      ],
+      "set": "Mass Mutations"
+   },
+   {
+      "key": "MMD8",
+      "cardColor": "white",
+      "name": "\"Z-Wave\" Thaniel, Swamp Lord",
+      "houses": ["Dis", "Logos", "Star Alliance"],
+      "cards": [
+         "MM002", "MM002", "MM007", "MM008", "MM010", "MM010", "MM021", "MM023", "MM026", "MM026", "MM043", "MM065",
+         "MM072", "MM074", "MM080", "MM080", "MM080", "MM081", "MM085", "MM090", "MM091", "MM096", "MM097", "MM119",
+         "MM294", "MM307", "MM307", "MM311", "MM312", "MM314", "MM316", "MM323", "MM331", "MM339", "MM358", "MM361"
+      ],
+      "set": "Mass Mutations"
+   },
+   {
+      "key": "MMD9",
+      "cardColor": "purple",
+      "name": "Hokudown, the NAturalist of Extra Limbs",
+      "houses": ["Dis", "Star Alliance", "Untamed"],
+      "cards": [
+         "MM002", "MM003", "MM007", "MM008", "MM010", "MM013", "MM013", "MM014", "MM015", "MM017", "MM019", "MM026",
+         "MM303", "MM304", "MM307", "MM312", "MM314", "MM314", "MM315", "MM328", "MM353", "MM354", "MM355", "MM356",
+         "MM362", "MM364", "MM364", "MM365", "MM366", "MM367", "MM371", "MM371", "MM375", "MM382", "MM386", "MM402"
+      ],
+      "set": "Mass Mutations"
+   },
+   {
+      "key": "MMD10",
+      "cardColor": "blue",
+      "name": "Jaenisch, the Leader of Nordborea",
+      "houses": ["Logos", "Sanctum", "Saurian"],
+      "cards": [
+         "MM067", "MM069", "MM070", "MM073", "MM077", "MM078", "MM080", "MM086", "MM090", "MM092", "MM092", "MM095",
+         "MM127", "MM129", "MM130", "MM137", "MM139", "MM140", "MM141", "MM141", "MM142", "MM158", "MM169", "MM179",
+         "MM117", "MM186", "MM186", "MM189", "MM193", "MM195", "MM202", "MM205", "MM239", "MM240", "MM244", "MM244"
+      ],
+      "set": "Mass Mutations"
+   },
+   {
+      "key": "DTD1",
+      "cardColor": "blue",
+      "name": "The Garu of Holmdale",
+      "houses": ["Saurian", "Star Alliance", "Untamed"],
+      "cards": [
+         "DT133", "DT134", "DT157", "DT161", "DT164", "DT171", "DT172", "DT172", "DT174", "DT174", "DT183", "DT183",
+         "DT263", "DT265", "DT276", "DT283", "DT289", "DT293", "DT296", "DT298", "DT300", "DT301", "DT302", "DT305",
+         "DT380", "DT410", "DT413", "DT413", "DT413", "DT416", "DT418", "DT419", "DT424", "DT426", "DT427", "DT428"
+      ],
+      "set": "Dark Tidings"
+   },
+   {
+      "key": "DTD2",
+      "cardColor": "orange",
+      "name": "Ms. V. O. Bowne",
+      "houses": ["Sanctum", "Shadows", "Untamed"],
+      "cards": [
+         "DT071", "DT072", "DT073", "DT099", "DT099", "DT102", "DT108", "DT109", "DT110", "DT111", "DT118", "DT120",
+         "DT197", "DT213", "DT217", "DT221", "DT222", "DT228", "DT229", "DT230", "DT231", "DT323", "DT233", "DT241",
+         "DT413", "DT414", "DT416", "DT417", "DT417", "DT417", "DT421", "DT421", "DT422", "DT422", "DT423", "DT424"
+      ],
+      "set": "Dark Tidings"
+   },
+   {
+      "key": "DTD3",
+      "cardColor": "yellow",
+      "name": "Panfoot, the Orange Banker",
+      "houses": ["Saurian", "Shadows", "Star Alliance"],
+      "cards": [
+         "DT139", "DT153", "DT154", "DT160", "DT161", "DT166", "DT168", "DT177", "DT179", "DT180", "DT181", "DT183",
+         "DT212", "DT215", "DT217", "DT222", "DT227", "DT228", "DT228", "DT231", "236", "DT239", "DT240", "DT240",
+         "DT273", "DT281", "DT290", "DT290", "DT292", "DT292", "DT292", "DT293", "DT294", "DT296", "DT301", "DT303"
+      ],
+      "set": "Dark Tidings"
+   },
+   {
+      "key": "DTD4",
+      "cardColor": "green",
+      "name": "Instantly Medium Orbei",
+      "houses": ["Logos", "Sanctum", "Saurian"],
+      "cards": [
+         "DT042", "DT046", "DT050", "DT050", "DT050", "DT052", "DT053", "DT055", "DT055", "DT061", "DT063", "DT063", 
+         "DT091", "DT095", "DT099", "DT105", "DT105", "DT109", "DT112", "DT116", "DT117", "DT117", "DT122", "DT123",
+         "DT150", "DT151", "DT152", "DT162", "DT171", "DT172", "DT174", "DT175", "DT176", "DT178", "DT180", "DT181"
+      ],
+      "set": "Dark Tidings"
+   },
+   {
+      "key": "DTD5",
+      "cardColor": "purple",
+      "name": "Tidal Madame Malphas",
+      "houses": ["Saurian", "Unfathomable", "Untamed"],
+      "cards": [
+         "DT121", "DT139", "DT153", "DT168", "DT168", "DT169", "DT173", "DT175", "DT177", "DT177", "DT177", "DT179",
+         "DT327", "DT330", "DT337", "DT351", "DT351", "DT354", "DT355", "DT355", "DT356", "DT358", "DT359", "DT363",
+         "DT393", "DT401", "DT402", "DT403", "DT407", "DT413", "DT418", "DT418", "DT418", "DT419", "DT424", "DT428"
+      ],
+      "set": "Dark Tidings"
+   },
+   {
+      "key": "DTD6",
+      "cardColor": "green",
+      "name": "Xyloshaper of the Infallible Acropolis",
+      "houses": ["Sanctum", "Saurian", "Unfathomable"],
+      "cards": [
+         "AoA220", "DT071", "DT072", "DT110", "DT111", "DT116", "DT116", "DT116", "DT121", "DT121", "DT121", "123",
+         "DT131", "DT132", "DT154", "DT169", "DT169", "DT170", "DT174", "DT176", "DT177", "DT178", "DT182", "DT183",
+         "325", "DT340", "DT351", "DT352", "DT353", "DT354", "DT355", "DT360", "DT360", "DT363", "DT366", "DT367"
+      ],
+      "set": "Dark Tidings"
+   },
+   {
+      "key": "DTD7",
+      "cardColor": "white",
+      "name": "Paleopool's Unerving Artisan",
+      "houses": ["Logos", "Unfathomable", "Untamed"],
+      "cards": [
+         "DT014", "DT037", "DT040", "DT045", "DT048", "DT048", "DT051", "DT052", "DT056", "DT056", "DT056", "DT058",
+         "DT333", "DT336", "DT338", "DT347", "DT349", "DT353", "DT357", "DT359", "DT361", "DT361", "DT366", "DT367",
+         "DT241", "DT391", "DT397", "DT403", "DT405", "DT408", "DT411", "DT420", "DT423", "DT424", "DT424", "DT425"
+      ],
+      "set": "Dark Tidings"
+   },
+   {
+      "key": "DTD8",
+      "cardColor": "yellow",
+      "name": "Sorrow the Enigmatic",
+      "houses": ["Saurian", "Shadows", "Unfathomable"],
+      "cards": [
+         "DT146", "DT152", "DT153", "DT168", "DT170", "DT172", "DT173", "DT175", "DT176", "DT179", "DT181", "DT181",
+         "DT200", "DT223", "DT227", "DT229", "DT230", "DT232", "DT234", "DT238", "DT238", "DT240", "DT240", "DT242",
+         "DT341", "DT342", "DT352", "DT354", "DT356", "DT358", "DT360", "DT362", "DT363", "DT365", "DT366", "DT367"
+      ],
+      "set": "Dark Tidings"
+   },
+   {
+      "key": "DTD9",
+      "cardColor": "red",
+      "name": "Curiously Lonely Cecil",
+      "houses": ["Saurian", "Star Alliance", "Unfathomable"],
+      "cards": [
+         "DT138", "DT148", "DT150", "DT156", "DT161", "DT171", "DT177", "DT179", "DT179", "DT180", "DT181", "DT183",
+         "DT271", "DT276", "DT279", "DT280", "DT285", "DT291", "DT291", "DT291", "DT292", "DT296", "DT304", "DT304",
+         "DT353", "DT355", "DT355", "DT356", "DT358", "DT360", "DT360", "DT360", "DT362", "DT362", "DT364", "DT366"
+      ],
+      "set": "Dark Tidings"
+   },
+   {
+      "key": "DTD10",
+      "cardColor": "red",
+      "name": "Fortified Igmon of the Web",
+      "houses": ["Logos", "Shadows", "Star Alliance"],
+      "cards": [
+         "DT039", "DT045", "DT047", "DT049", "DT051", "DT054", "DT057", "DT057", "DT058", "DT059", "DT061", "DT063",
+         "DT193", "DT221", "DT225", "DT228", "DT229", "DT231", "DT235", "DT239", "DT239", "DT240", "DT241", "DT241",
+         "DT256", "DT274", "DT287", "DT292", "DT294", "DT295", "DT296", "DT297", "DT298", "DT301", "DT301", "DT302"
+      ],
+      "set": "Dark Tidings"
+   },
+   {
+      "key": "DTD11",
+      "cardColor": "yellow",
+      "name": "The Forestalled Drifter Diamond Sentinel",
+      "houses": ["Logos", "Saurian", "Star Alliance"],
+      "cards": [
+         "DT018", "DT040", "DT048", "DT052", "DT053", "DT055", "DT058", "DT058", "DT060", "DT060", "DT061", "DT061",
+         "DT138", "DT152", "DT152", "DT157", "DT171", "DT171", "DT173", "DT174", "DT174", "DT175", "DT176", "DT180",
+         "DT257", "DT276", "DT278", "DT282", "0286", "DT286", "DT292", "DT296", "DT296", "DT300", "DT303", "DT304"
+      ],
+      "set": "Dark Tidings"
+   },
+   {
+      "key": "DTD12",
+      "cardColor": "orange",
+      "name": "Pserijilli Swyfte, Commander",
+      "houses": ["Saurian", "Star Alliance", "Untamed"],
+      "cards": [
+         "DT153", "DT167", "DT168", "DT175", "DT175", "DT175", "DT177", "DT178", "DT180", "DT182", "DT182", "DT183",
+         "DT257", "DT281", "DT281", "DT282", "DT287", "DT289", "DT290", "DT294", "DT297", "DT300", "DT302", "DT304",
+         "DT380", "DT385", "DT409", "DT413", "DT414", "DT415", "DT415", "DT415", "DT417", "DT421", "DT423", "DT423"
+      ],
+      "set": "Dark Tidings"
+   },
+   {
+      "key": "DTD13",
+      "cardColor": "yellow",
+      "name": "Brilliant \"Tubes\" Susan",
+      "houses": ["Logos", "Sanctum", "Untamed"],
+      "cards": [
+         "DT024", "DT039", "DT040", "DT041", "DT046", "DT048", "DT050", "DT051", "DT054", "DT060", "DT060", "DT063",
+         "DT094", "DT099", "DT100", "DT103", "DT108", "DT113", "DT114", "DT114", "DT114", "DT115", "DT117", "DT123",
+         "DT387", "DT403", "DT409", "DT412", "DT416", "DT417", "DT418", "DT421", "DT423", "DT424", "DT425", "DT425"
+      ],
+      "set": "Dark Tidings"
+   },
+   {
+      "key": "DTD14",
+      "cardColor": "yellow",
+      "name": "Turbothwack the Unsettled",
+      "houses": ["Shadows", "Star Alliance", "Unfathomable"],
+      "cards": [
+         "DT207", "DT221", "DT222", "DT229", "DT231", "DT231", "DT232", "DT233", "DT234", "DT235", "DT236", "DT242",
+         "DT270", "DT276", "DT279", "DT279", "DT291", "DT293", "DT295", "DT298", "DT299", "DT300", "DT304", "DT305",
+         "DT329", "DT339", "DT342", "DT343", "DT347", "DT355", "DT356", "DT362", "DT362", "DT363", "DT365", "DT367"
+      ],
+      "set": "Dark Tidings"
+   },
+   {
+      "key": "DTD15",
+      "cardColor": "red",
+      "name": "Mr. Zonorus Condor",
+      "houses": ["Logos", "Sanctum", "Saurian"],
+      "cards": [
+         "DT019", "DT040", "DT044", "DT045", "DT045", "DT047", "DT049", "DT050", "DT052", "DT053", "DT055", "DT062",
+         "DT071", "DT072", "DT074", "DT096", "DT108", "DT109", "DT112", "DT113", "DT115", "DT117", "DT118", "DT121",
+         "DT112", "DT139", "DT153", "DT156", "DT167", "DT168", "DT171", "DT171", "DT172", "DT175", "DT179", "DT183"
+      ],
+      "set": "Dark Tidings"
+   },
+   {
+      "key": "WoED1",
+      "cardColor": "purple",
+      "name": "Heroine Z. Nonaaple",
+      "houses": ["Mars", "Saurian", "Unfathomable"],
+      "cards": [
+         "WoE128", "WoE137", "WoE150", "WoE151", "WoE151", "WoE154", "WoE156", "WoE159", "WoE159", "WoE162", "WoE164", "WoE166",
+         "WoE239", "WoE244", "WoE254", "WoE256", "WoE258", "WoE261", "WoE265", "WoE267", "WoE270", "WoE279", "WoE282", "WoE282",
+         "WoE369", "WoE375", "WoE385", "WoE387", "WoE388", "WoE391", "WoE392", "WoE392", "WoE393", "WoE394", "WoE395", "WoE396"
+      ],
+      "set": "Winds of Exchange"
+   },
+   {
+      "key": "WoED2",
+      "cardColor": "purple",
+      "name": "Vesnius the Sharply Bolstered",
+      "houses": ["Ekwidon", "Sanctum", "Unfathomable"],
+      "cards": [
+         "WoE074", "WoE076", "WoE077", "WoE090", "WoE091", "WoE093", "WoE093", "WoE096", "WoE099", "WoE103", "WoE104", "WoE104",
+         "WoE184", "WoE197", "WoE206", "WoE207", "WoE210", "WoE213", "WoE215", "WoE216", "WoE216", "WoE221", "WoE222", "WoE224",
+         "WoE349", "WoE376", "WoE383", "WoE383", "WoE384", "WoE386", "WoE387", "WoE389", "WoE390", "WoE390", "WoE390", "WoE400"
+      ],
+      "set": "Winds of Exchange"
+   },
+   {
+      "key": "WoED3",
+      "cardColor": "white",
+      "name": "Inanvan, the Ample Geyser Guerilla",
+      "houses": ["Mars", "Sanctum", "Unfathomable"],
+      "cards": [
+         "WoE120", "WoE135", "WoE136", "WoE142", "WoE153", "WoE156", "WoE157", "WoE161", "WoE162", "WoE162", "WoE164", "WoE165",
+         "WoE182", "WoE195", "WoE202", "WoE206", "WoE210", "WoE214", "WoE216", "WoE218", "WoE221", "WoE222", "WoE222", "WoE224",
+         "WoE369", "WoE373", "WoE375", "WoE378", "WoE383", "WoE384", "WoE384", "WoE388", "WoE390", "WoE392", "WoE393", "WoE396"
+      ],
+      "set": "Winds of Exchange"
+   },
+   {
+      "key": "WoED4",
+      "cardColor": "blue",
+      "name": "Upstart Hyram of the Canal",
+      "houses": ["Ekwidon", "Sanctum", "Unfathomable"],
+      "cards": [
+         "WoE077", "WoE086", "WoE091", "WoE092", "WoE093", "WoE094", "WoE096", "WoE098", "WoE098", "WoE103", "WoE105", "WoE106",
+         "WoE195", "WoE201", "WoE203", "WoE207", "WoE211", "WoE211", "WoE213", "WoE215", "WoE217", "WoE218", "WoE222", "WoE223",
+         "WoE350", "WoE353", "WoE371", "WoE371", "WoE384", "WoE388", "WoE389", "WoE391", "WoE395", "WoE396", "WoE397", "WoE398"
+      ],
+      "set": "Winds of Exchange"
+   },
+   {
+      "key": "WoED5",
+      "cardColor": "red",
+      "name": "The Citzen that Ruthlessly Unsees Pain",
+      "houses": ["Ekwidon", "Saurian", "Star Alliance"],
+      "cards": [
+         "WoE059", "WoE060", "WoE074", "WoE074", "WoE076", "WoE084", "WoE088", "WoE090", "WoE093", "WoE107", "WoE108", "WoE109",
+         "WoE243", "WoE254", "WoE260", "WoE264", "WoE273", "WoE275", "WoE275", "WoE277", "WoE280", "WoE280", "WoE280", "WoE281",
+         "WoE314", "WoE231", "WoE323", "WoE323", "WoE325", "WoE328", "WoE330", "WoE331", "WoE331", "WoE332", "WoE335", "WoE336"
+      ],
+      "set": "Winds of Exchange"
+   },
+   {
+      "key": "WoED6",
+      "cardColor": "red",
+      "name": "Prof. Gorgoegg Cooke",
+      "houses": ["Mars", "Sanctum", "Star Alliance"],
+      "cards": [
+         "WoE129", "WoE131", "WoE138", "WoE142", "WoE149", "WoE151", "WoE152", "WoE158", "WoE160", "WoE163", "WoE163", "WoE164",
+         "WoE202", "WoE207", "WoE209", "WoE211", "WoE211", "WoE212", "WoE213", "WoE218", "WoE221", "WoE222", "WoE224", "WoE225",
+         "WoE291", "WoE313", "WoE314", "WoE324", "WoE329", "WoE331", "WoE331", "WoE332", "WoE335", "WoE337", "WoE338", "WoE338"
+      ],
+      "set": "Winds of Exchange"
+   },
+   {
+      "key": "WoED7",
+      "cardColor": "green",
+      "name": "Dumbong, theLIbrarian of Joy",
+      "houses": ["Ekwidon", "Mars", "Saurian"],
+      "cards": [
+         "WoE066", "WoE079", "WoE089", "WoE95", "WoE097", "WoE100", "WoE102", "WoE104", "WoE104", "WoE105", "WoE106", "WoE106",
+         "WoE127", "WoE138", "WoE154", "WoE155", "WoE155", "WoE156", "WoE156", "WoE159", "WoE160", "WoE161", "WoE161", "WoE162",
+         "WoE241", "WoE260", "WoE264", "WoE264", "WoE264", "WoE265", "WoE271", "WoE272", "WoE276", "WoE278", "WoE280", "WoE281"
+      ],
+      "set": "Winds of Exchange"
+   },
+   {
+      "key": "WoED8",
+      "cardColor": "orange",
+      "name": "Crackpot Nobody",
+      "houses": ["Ekwidon", "Star Alliance", "Unfathomable"],
+      "cards": [
+         "WoE061", "WoE070", "WoE077", "WoE079", "WoE095", "WoE095", "WoE097", "WoE099", "WoE102", "WoE103", "WoE105", "WoE106",
+         "WoE307", "WoE318", "WoE320", "WoE323", "325", "WoE325", "WoE326", "WoE330", "WoE332", "WoE334", "WoE336", "WoE340",
+         "WoE349", "WoE375", "WoE383", "WoE383", "WoE384", "WoE393", "WoE394", "WoE395", "WoE396", "WoE396", "WoE398", "WoE398"
+      ],
+      "set": "Winds of Exchange"
+   },
+   {
+      "key": "WoED9",
+      "cardColor": "white",
+      "name": "Guild-head P. Tantanos",
+      "houses": ["Brobnar", "Star Alliance", "Unfathomable"],
+      "cards": [
+         "WoE002", "WoE011", "WoE011", "WoE021", "WoE035", "WoE039", "WoE039", "WoE041", "WoE044", "WoE048", "WoE049", "WoE051",
+         "WoE300", "WoE315", "WoE317", "WoE322", "WoE329", "WoE333", "WoE334", "WoE334", "WoE334", "WoE335", "WoE336", "WoE340",
+         "WoE348", "WoE352", "WoE353", "WoE355", "WoE368", "WoE373", "WoE380", "WoE381", "WoE389", "WoE390", "WoE393", "WoE394"
+      ],
+      "set": "Winds of Exchange"
+   },
+   {
+      "key": "WoED10",
+      "cardColor": "green",
+      "name": "Joyner, Lowerstep's Misanthrope",
+      "houses": ["Brobnar", "Mars", "Saurian"],
+      "cards": [
+         "WoE009", "WoE021", "WoE028", "WoE036", "WoE039", "WoE042", "WoE042", "WoE045", "WoE046", "WoE050", "WoE050", "WoE051",
+         "WoE126", "WoE138", "WoE139", "WoE151", "WoE158", "WoE159", "WoE162", "WoE164", "WoE168", "WoE169", "WoE170", "WoE171",
+         "WoE232", "WoE254", "WoE257", "WoE258", "WoE271", "WoE271", "WoE275", "WoE276", "WoE277", "WoE277", "WoE282", "WoE283"
+      ],
+      "set": "Winds of Exchange"
+   },
+   {
+      "key": "WoED11",
+      "cardColor": "white",
+      "name": "Honorable Lawncrescent Powers",
+      "houses": ["Ekwidon", "Sanctum", "Saurian"],
+      "cards": [
+         "WoE057", "WoE067", "WoE081", "WoE090", "WoE091", "WoE094", "WoE097", "WoE099", "WoE100", "WoE101", "WoE103", "WoE104",
+         "WoE190", "WoE198", "WoE203", "WoE205", "WoE206", "WoE206", "WoE208", "WoE209", "WoE210", "WoE211", "WoE223", "WoE225",
+         "WoE245", "WoE268", "WoE270", "WoE272", "WoE272", "WoE273", "WoE274", "WoE275", "WoE276", "WoE276", "WoE283", "WoE283"
+      ],
+      "set": "Winds of Exchange"
+   },
+   {
+      "key": "WoED12",
+      "cardColor": "green",
+      "name": "The Divinity who Sabotages Hybrids",
+      "houses": ["Brobnar", "Mars", "Sanctum"],
+      "cards": [
+         "WoE004", "WoE006", "WoE022", "WoE027", "WoE029", "WoE030", "WoE032", "WoE041", "WoE042", "WoE045", "WoE050", "WoE051",
+         "WoE132", "WoE146", "WoE147", "WoE148", "WoE153", "WoE156", "WoE158", "WoE158", "WoE158", "WoE160", "WoE162", "WoE163",
+         "WoE178", "WoE197", "WoE199", "WoE200", "WoE210", "WoE215", "WoE216", "WoE217", "WoE219", "WoE221", "WoE222", "WoE223"
+      ],
+      "set": "Winds of Exchange"
+   },
+   {
+      "key": "WoED13",
+      "cardColor": "purple",
+      "name": "Fonnereau of Pollworld Province",
+      "houses": ["Brobnar", "Mars", "Sanctum"],
+      "cards": [
+         "WoE014", "WoE020", "WoE021", "WoE021", "WoE025", "WoE028", "WoE031", "WoE034", "WoE036", "WoE037", "WoE043", "WoE044",
+         "WoE135", "WoE137", "WoE140", "WoE144", "WoE150", "WoE157", "WoE157", "WoE158", "WoE158", "WoE159", "WoE162", "WoE164",
+         "WoE181", "WoE192", "WoE194", "WoE199", "WoE204", "WoE212", "WoE216", "WoE223", "WoE224", "WoE225", "WoE225", "WoE226"
+      ],
+      "set": "Winds of Exchange"
+   },
+   {
+      "key": "GRD1",
+      "cardColor": "orange",
+      "name": "The Everday Soldier of Dahldine",
+      "houses": ["Brobnar", "Ekwidon", "Untamed"],
+      "cards": [
+         "GR003", "GR030", "GR036", "GR037", "GR040", "GR043", "GR044", "GR045", "GR045", "GR047", "GR048", "GR052",
+         "GR070", "GR077", "GR085", "GR085", "GR086", "GR091", "GR094", "GR098", "GR102", "GR102", "GR103", "GR106",
+         "GR333", "GR372", "GR373", "GR374", "GR375", "GR378", "GR379", "GR379", "GR380", "GR381", "GR381", "GR382"
+      ],
+      "set": "Grim Reminders"
+   },
+   {
+      "key": "GRD2",
+      "cardColor": "green",
+      "name": "Wimpy \"Riley\" Xara",
+      "houses": ["Ekwidon", "Mars", "Star Alliance"],
+      "cards": [
+         "GR065", "GR077", "GR077", "GR079", "GR089", "GR091", "GR093", "GR094", "GR098", "GR102", "GR104", "GR104",
+         "GR191", "GR192", "GR193", "GR194", "GR197", "GR202", "GR202", "GR207", "GR209", "GR209", "GR214", "GR214",
+         "GR222", "GR241", "GR243", "GR245", "GR251", "GR255", "GR257", "GR257", "GR272", "GR272", "GR274", "GR274"
+      ],
+      "set": "Grim Reminders"
+   }
+]
