@@ -7,7 +7,7 @@
             <v-icon class="dropdown-icon" icon="mdi-chevron-down"></v-icon>
         </div>
         <div class="dropdown-option-container" v-if="this.isOpen">
-            <div class="dropdown-option" v-for="option, index in this.options" :key="index" @click="handleOption(option)">
+            <div class="dropdown-option" v-for="option, index in this.$props.options" :key="index" @click="handleOption(option)">
                 {{ option.name }}
             </div>
         </div>
@@ -19,14 +19,6 @@ export default {
         return {
             isOpen: false,
             selectedOption: null,
-            options: [
-                {value: "cota", name: "Call to The Archons"},
-                {value: "aoa", name: "Age of Ascencion"},
-                {value: "wc", name: "Worlds Collide"},
-                {value: "mm", name: "Mass Mutations"},
-                {value: "dt", name: "Dark Tidings"},
-                {value: "wow", name: "Winds of Exchange"}
-            ] 
         }
     },
     props: [

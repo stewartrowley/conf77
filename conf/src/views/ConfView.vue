@@ -1,11 +1,13 @@
 <template>
-   <div>
+   <div style="display: flex; flex-direction: row;">
       <!-- <DropDown />
       <TeamSelector/> -->
       <TeamStandings />
+      <TeamSchedule />
    </div>
 </template>
 <script>
+import TeamSchedule from '../components/TeamSchedule.vue';
 import TeamStandings from '../components/TeamStandings.vue';
 
 // import DropDown from '../components/DropDown.vue';
@@ -13,7 +15,8 @@ import TeamStandings from '../components/TeamStandings.vue';
 
 export default {
    components: {
-      TeamStandings
+      TeamStandings,
+      TeamSchedule
    //  TeamSelector,
    //  DropDown
 }

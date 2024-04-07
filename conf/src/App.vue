@@ -1,8 +1,11 @@
 <script setup>
 import teams from './data/teams.json';
 import { useConfStore } from './stores/confStore';
+import { useScheduleStore } from './stores/scheduleStore';
 const confStore = useConfStore();
-confStore.setTeams(teams);
+const scheduleStore = useScheduleStore();
+confStore.setTeams();
+scheduleStore.getSchedules();
 
 </script>
 
