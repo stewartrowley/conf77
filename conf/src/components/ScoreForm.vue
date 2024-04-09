@@ -53,6 +53,19 @@ export default {
     },
     setGame () {
       console.log(this.$props.game);
+      let propOpponentGame = {};
+      if (this.$props.game.location === 'home') {
+         propOpponentGame.location = 'away'
+      } else {
+         propOpponentGame.location = 'home'
+      }
+
+      propOpponentGame.matchup = [
+         this.$props.game.matchup[1],
+         this.$props.game.matchup[0]
+      ]
+      console.log(propOpponentGame);
+      console.log(this.$props.game);
       const teamName = this.$props.game.matchup[0].name;
       const opponentName = this.$props.game.matchup[1].name;
       console.log(opponentName);
@@ -64,7 +77,14 @@ export default {
       console.log(opponentTeamSchedule);
       const opponentsSchedule = opponentTeamSchedule.games;
       console.log(opponentsSchedule);
-      const opponentTeamGameIndex = opponentsSchedule.indexOf(this.$props.game);
+      console.log(propOpponentGame);
+      let opponentTeamGameIndex = null;
+      opponentsSchedule.forEach((word, index) => {
+         if (word.location === propOpponentGame.location && word.matchup === propOpponentGame.matchup) {
+            
+            opponentTeamGameIndex = index;
+         }
+      });;
       console.log(opponentTeamGameIndex);
       // const teamScheduleIndex = teamSchedule.indexOf(this.$props.team);
       const teamEvents = teamSchedule.games;
@@ -78,6 +98,8 @@ export default {
          this.$props.game.aemberGained = this.awayAember;
          this.$props.game.aemberAgainst = this.homeAember;
          this.$props.game.scoreRecord = this.awayScore + '-' + this.homeScore;
+         console.log(this.$props.item.schedule[parseInt(opponentTeamScheduleIndex)].games[parseInt(teamGameIndex)]);
+         this.$props.item.schedule[parseInt(opponentTeamScheduleIndex)].games[parseInt(teamGameIndex)].keysForged = this.homeScore;
          if (this.awayScore > this.homeScore) {
             this.$props.game.result = 'W';
          } else {
