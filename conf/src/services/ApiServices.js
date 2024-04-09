@@ -15,5 +15,8 @@ export default {
     },
     setSechedule (payload) {
          return apiClient.post('/schedules', payload);
+    },
+    setGame (payload, id) {
+         return apiClient.put('/schedules/' + id, payload);
     }
 }

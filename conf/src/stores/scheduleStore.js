@@ -24,6 +24,19 @@ export const useScheduleStore = defineStore('schedule', {
             console.log(error);
          })
       },
+      setCurrentGame (game) {
+         const id = game.id;
+         ApiServices.setGame(game, id)
+         .then((response) => {
+            console.log(response);
+         })
+         .catch ((error) => {
+            console.log(error);
+         })
+      },
+      getRandomKey () {
+         return Date.now().toString(36) + Math.random().toString(36).substr(2);
+      },
       generateSchedule () {
          function shuffle(array) {
             let currentIndex = array.length;
