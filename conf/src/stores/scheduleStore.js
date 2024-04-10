@@ -10,6 +10,9 @@ export const useScheduleStore = defineStore('schedule', {
     };
   },
   getters: {
+   getSchedule () {
+      return this.schedules;
+   }
   },
   actions: {
       getSchedules () {

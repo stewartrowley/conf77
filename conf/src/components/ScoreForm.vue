@@ -52,7 +52,6 @@ export default {
       }      
     },
     setGame () {
-      console.log(this.$props.game);
       let propOpponentGame = {};
       if (this.$props.game.location === 'home') {
          propOpponentGame.location = 'away'
@@ -64,46 +63,40 @@ export default {
          this.$props.game.matchup[1],
          this.$props.game.matchup[0]
       ]
-      console.log(propOpponentGame);
-      console.log(this.$props.game);
       const teamName = this.$props.game.matchup[0].name;
       const opponentName = this.$props.game.matchup[1].name;
-      console.log(opponentName);
       const schedule = this.$props.item.schedule;
-      console.log(schedule);
       const teamSchedule = schedule.find(o => o.teamName === this.$props.team.teamName);
       const opponentTeamSchedule = schedule.find(o => o.teamName === opponentName);
       const opponentTeamScheduleIndex = schedule.findIndex(o => o.teamName === opponentName);
-      console.log(opponentTeamSchedule);
       const opponentsSchedule = opponentTeamSchedule.games;
-      console.log(opponentsSchedule);
-      console.log(propOpponentGame);
       let opponentTeamGameIndex = null;
       opponentsSchedule.forEach((word, index) => {
-         if (word.location === propOpponentGame.location && word.matchup === propOpponentGame.matchup) {
-            
+         if (word.location === propOpponentGame.location && word.matchup[0].name === propOpponentGame.matchup[0].name && word.matchup[1].name === propOpponentGame.matchup[1].name) {
+         
             opponentTeamGameIndex = index;
          }
-      });;
-      console.log(opponentTeamGameIndex);
-      // const teamScheduleIndex = teamSchedule.indexOf(this.$props.team);
+      });
       const teamEvents = teamSchedule.games;
-      console.log(teamEvents);
       const teamGameIndex = teamEvents.indexOf(this.$props.game);
-      console.log(teamGameIndex);
-      console.log(teamSchedule);
+      const opponentGame = this.$props.item.schedule[parseInt(opponentTeamScheduleIndex)].games[parseInt(opponentTeamGameIndex)];
       if (this.$props.game.location === 'away') {
          this.$props.game.keysForged = this.awayScore;
          this.$props.game.keysAgainst = this.homeScore;
          this.$props.game.aemberGained = this.awayAember;
          this.$props.game.aemberAgainst = this.homeAember;
-         this.$props.game.scoreRecord = this.awayScore + '-' + this.homeScore;
-         console.log(this.$props.item.schedule[parseInt(opponentTeamScheduleIndex)].games[parseInt(teamGameIndex)]);
-         this.$props.item.schedule[parseInt(opponentTeamScheduleIndex)].games[parseInt(teamGameIndex)].keysForged = this.homeScore;
+         this.$props.game.scoreRecord = this.awayScore + '-' + this.homeScore;;
+         opponentGame.keysForged = this.homeScore;
+         opponentGame.keysAgainst = this.awayScore;
+         opponentGame.aemberGained = this.homeAember;
+         opponentGame.aemberAgainst = this.awayAember;
+         opponentGame.scoreRecord = this.homeScore + '-' + this.awayScore;
          if (this.awayScore > this.homeScore) {
             this.$props.game.result = 'W';
+            opponentGame.result = 'L';
          } else {
             this.$props.game.result = 'L';
+            opponentGame.result = 'W';
          }
       } else {
          this.$props.game.keysForged = this.homeScore;
@@ -111,16 +104,21 @@ export default {
          this.$props.game.aemberGained = this.homeAember;
          this.$props.game.aemberAgainst = this.awayAember;
          this.$props.game.scoreRecord = this.homeScore + '-' + this.awayScore;
+         opponentGame.keysForged = this.awayScore;
+         opponentGame.keysAgainst = this.homeScore;
+         opponentGame.aemberGained = this.awayAember;
+         opponentGame.aemberAgainst = this.homeAember;
+         opponentGame.scoreRecord = this.awayScore + '-' + this.homeScore;
          if (this.homeScore > this.awayScore) {
             this.$props.game.result = 'W';
+            opponentGame.result = 'L';
          } else {
             this.$props.game.result = 'L';
+            opponentGame.result = 'W';
          }
       }
-      // const scheduleStore = useScheduleStore();
-      // scheduleStore.setCurrentGame(this.$props.item);
-      console.log(this.$props.game);
-      console.log(this.$props.item);
+      const scheduleStore = useScheduleStore();
+      scheduleStore.setCurrentGame(this.$props.item);
     }
     // handleValues () {
     //    console.log(this.fieldOne);
