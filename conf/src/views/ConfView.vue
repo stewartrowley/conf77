@@ -1,9 +1,9 @@
 <template>
-   <div style="display: flex; flex-direction: row;">
+   <div style="display: flex; flex-direction: row; gap: 3rem;">
       <!-- <DropDown />
       <TeamSelector/> -->
-      <TeamStandings />
-      <TeamSchedule />
+         <TeamStandings />
+         <TeamSchedule />
    </div>
 </template>
 <script>
