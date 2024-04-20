@@ -12,12 +12,16 @@
                      </tr>
                   </thead>
                   <tbody>
-                     <div v-for="team in this.getGroupData(conf, group)">
-                        <tr>
-                           <td>{{ team.name }}</td>
-                           <td>{{ this.getRecord(team) }}</td>
-                        </tr>
-                     </div>
+                     <tr v-for="team in this.getGroupData(conf, group)">
+                        <td>{{ team.name }}</td>
+                        <td>{{ this.getRecord(team) }}</td>
+                        <!-- <td>{{ this.getAwayRecord() }}</td>
+                        <td>{{ this.getHomeRecord() }}</td>
+                        <td>{{ this.getKeysForged() }}</td>
+                        <td>{{ this.getKeysAgainst() }}</td>
+                        <td>{{ this.getAemberGained() }}</td>
+                        <td>{{ this.getAemberAgainst() }}</td> -->
+                     </tr>
                   </tbody>
                </table>
             </div>
@@ -49,6 +53,12 @@ export default {
             'Aember Gained',
             'Aember Against'
          ],
+         homeRecord: '0-0',
+         awayRecord: '0-0',
+         keysForged: 0,
+         keysAgainst: 0,
+         aemberGained: 0,
+         aemberAgainst: 0
       }
    },
    computed: {
@@ -64,9 +74,27 @@ export default {
       getTeams() {
          console.log(this.confStore.confs.blue.blueA);
          return this.confStore.confs
-      }
+      },
    },
    methods: {
+      getHomeRecord () {
+         return this.homeRecord;
+      },
+      getAwayRecord () {
+         return this.awayRecord;
+      },
+      getKeysForged () {
+         return this.keysForged;
+      },
+      getKeysAgainst () {
+         return this.keysAgainst;
+      },
+      getAemberGained () {
+         return this.aemberGained;
+      },
+      getAemberAgainst () {
+         return this.aemberAgainst;
+      },
       getGroupData(conf, group) {
          const confData = this.confStore.confs[conf]
          console.log(confData[group])
@@ -78,19 +106,48 @@ export default {
             const teamSchedule = schedule.find(o => o.teamName === team.name)
             let winCount = 0;
             let loseCount = 0;
+            let homeWinCount = 0;
+            let homeLossesCount = 0;
+            let awayWinCount = 0;
+            let awayLossesCount = 0;
+            let keysForged = 0;
+            let keysAgainst = 0;
+            let aemberGained = 0;
+            let aemberAgainst = 0;
+            console.log(teamSchedule);
             const teamGames = teamSchedule.games;
             teamGames.forEach((item) => {
                if (item.result != undefined) {
+                  keysForged = keysForged + JSON.parse(item.keysForged);
+                  keysAgainst = keysAgainst + JSON.parse(item.keysAgainst);
+                  aemberGained = aemberGained + JSON.parse(item.aemberGained);
+                  aemberAgainst = aemberAgainst + JSON.parse(item.aemberAgainst)
                   if (item.result === 'W') {
+                     if (item.location === 'home') {
+                        homeWinCount = homeWinCount + 1;
+                     } else {
+                        awayWinCount = awayWinCount + 1;
+                     }
                      winCount = winCount + 1;
                   } else {
+                     if (item.location === 'home') {
+                        homeLossesCount = awayLossesCount + 1;
+                     } else {
+                        awayLossesCount = awayLossesCount + 1;
+                     }
                      loseCount = loseCount + 1;
                   }
                }
             })
+            this.keysForged = keysForged;
+            this.keysAgainst = keysAgainst;
+            this.aemberGained = aemberGained;
+            this.aemberAgainst = aemberAgainst;
+            this.homeRecord = homeWinCount + '-' + homeLossesCount;
+            this.awayRecord = awayWinCount + '-' + awayLossesCount;
             return winCount + '-' + loseCount;
          }
-      }
+      },
    }
 }
 </script>

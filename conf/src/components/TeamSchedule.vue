@@ -1,7 +1,7 @@
 <template>
    <div>
       <!-- <DropDown :options="getYear"/> -->
-      <button v-if="getSchedule === undefined" @click="this.handleGenerate">Generate Schedule</button>
+      <button @click="this.handleGenerate">Generate Schedule</button>
       <div v-if="getSchedule">
       <div v-for="games in getSchedule[0].schedule">
          <h4 @click="this.handleScheduleView(games)">{{ games.teamName }}</h4>                
@@ -11,6 +11,8 @@
                <p v-else @click="this.handleScore(games)">{{index + 1}}. {{ game.matchup[0].name }} vs {{ game.matchup[1].name }} </p>
                <p style="padding-left: 5px;" v-if="game.result">{{game.result}}</p>
                <p style="padding-left: 5px;" v-if="game.result">{{game.scoreRecord}}</p>
+               <p style="padding-left: 5px;" v-if="game.result">{{game.aemberGained}}</p>
+               <p style="padding-left: 5px;" v-if="game.result">{{game.aemberAgainst}}</p>
             </div>
             <ScoreForm v-if="game.isCurrent" :item="getSchedule[0]" :game="game" :location="game.location" :team="games"/>
          </div>
