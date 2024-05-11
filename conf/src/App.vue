@@ -4,8 +4,8 @@ import { useConfStore } from './stores/confStore';
 import { useScheduleStore } from './stores/scheduleStore';
 const confStore = useConfStore();
 const scheduleStore = useScheduleStore();
+scheduleStore.getSchedules()
 confStore.setTeams();
-scheduleStore.getSchedules();
 
 </script>
 

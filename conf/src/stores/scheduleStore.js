@@ -22,6 +22,8 @@ export const useScheduleStore = defineStore('schedule', {
             this.schedules[0].schedule.forEach((element) => {
                element.isSelected = false;
             })
+            const confStore = useConfStore();
+            confStore.getTeamStandings()
          })
          .catch((error) => {
             console.log(error);
