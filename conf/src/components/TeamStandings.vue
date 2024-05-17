@@ -12,7 +12,8 @@
                      </tr>
                   </thead>
                   <tbody>
-                     <tr v-for="team in this.getTeams(group)">
+                     <tr v-for="team, num in this.getTeams(group)">
+                        <td>{{ num + 1 }}</td>
                         <td>{{ team.name }}</td>
                         <td>{{ team.record }}</td>
                         <td>{{ team.homeRecord }}</td>
@@ -23,6 +24,8 @@
                         <td>{{ team.aemberGained }}</td>
                         <td>{{ team.aemberAgainst }}</td>
                         <td>{{ team.netPoint }}</td>
+                        <td v-if="team.isPlayoff">*</td>
+                        <td v-else>X</td>
                      </tr>
                   </tbody>
                </table>
@@ -49,6 +52,7 @@ export default {
       return {
          groupData: [],
          standingsHeaders: [
+            'Rank',
             'Team Name',
             'Record',
             'Home',
@@ -94,6 +98,20 @@ export default {
          console.log(this.getTeamStandings);
          const item = this.getTeamStandings.filter((a) => a.group === group);
          item.sort((a, b) => b.kfScore - a.kfScore)
+         const groupAmount = item.length;
+         let playoffCount = 0;
+         if (item.length === 6) {
+            playoffCount = 3;
+         } else if (item.length === 7 || item.length === 8) {
+            playoffCount = 4;
+         } else if (item.length === 9) {
+            playoffCount = 5;
+         }
+         for (let index = 0; index < playoffCount; index++) {
+            item[index].rankNum = index + 1;
+            item[index].isPlayoff = true;
+         }
+
          console.log(item);
          return item;
       },
