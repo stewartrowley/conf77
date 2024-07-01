@@ -97,6 +97,7 @@ export default {
       getTeams (group) {
          console.log(this.getTeamStandings);
          const item = this.getTeamStandings.filter((a) => a.group === group);
+         console.log(item);
          item.sort((a, b) => b.kfScore - a.kfScore)
          const groupAmount = item.length;
          let playoffCount = 0;
@@ -104,9 +105,9 @@ export default {
             playoffCount = 3;
          } else if (item.length === 7 || item.length === 8) {
             playoffCount = 4;
-         } else if (item.length === 9) {
+         } else if (item.length === 9 || item.length === 10) {
             playoffCount = 5;
-         }
+         } 
          for (let index = 0; index < playoffCount; index++) {
             item[index].rankNum = index + 1;
             item[index].isPlayoff = true;
